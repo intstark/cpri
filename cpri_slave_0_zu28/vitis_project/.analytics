@@ -1,0 +1,90 @@
+timestamp=[2024-03-14 19:42:27], mode=WORKBENCH_START, duration=0:00:04.173, duration_ms=4173, data={}
+timestamp=[2024-03-14 19:42:27], mode=WORKBENCH_UI_INIT, duration=0:00:00.300, duration_ms=300, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-03-14 19:42:30], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.902, duration_ms=1902, data={}
+timestamp=[2024-03-14 19:43:45], mode=APP_CREATION, duration=0:00:20.659, duration_ms=20659, data={name=hello_r5, project_type=sdk, os=standalone, processor=psu_cortexr5, runtime=cpp, platform=design_top, application_type=application}
+timestamp=[2024-03-14 19:45:22], mode=PLATFORM_GENERATION, duration=0:00:39.799, duration_ms=39799, data={name=design_top}
+timestamp=[2024-03-14 19:47:22], mode=WORKBENCH_START, duration=0:00:07.204, duration_ms=7204, data={}
+timestamp=[2024-03-14 19:47:24], mode=WORKBENCH_UI_INIT, duration=0:00:01.275, duration_ms=1275, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-14 19:47:24], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.044, duration_ms=44, data={}
+timestamp=[2024-03-14 19:47:53], mode=BUILD, duration=0:00:00.664, duration_ms=664, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-14 19:48:02], mode=BUILD, duration=0:00:07.835, duration_ms=7835, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 09:12:53], mode=WORKBENCH_START, duration=0:00:06.726, duration_ms=6726, data={}
+timestamp=[2024-03-15 09:12:54], mode=WORKBENCH_UI_INIT, duration=0:00:00.525, duration_ms=525, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-15 09:12:54], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.027, duration_ms=27, data={}
+timestamp=[2024-03-15 09:17:56], mode=BUILD, duration=0:00:08.445, duration_ms=8445, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 09:18:04], mode=BUILD, duration=0:00:08.095, duration_ms=8095, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:05:04], mode=BUILD, duration=0:00:00.487, duration_ms=487, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:05:10], mode=BUILD, duration=0:00:05.633, duration_ms=5633, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:28:43], mode=BUILD, duration=0:00:00.442, duration_ms=442, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:28:49], mode=BUILD, duration=0:00:05.943, duration_ms=5943, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:29:28], mode=BUILD, duration=0:00:00.109, duration_ms=109, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:29:34], mode=BUILD, duration=0:00:06.129, duration_ms=6129, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:55:06], mode=BUILD, duration=0:00:00.504, duration_ms=504, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 10:55:12], mode=BUILD, duration=0:00:05.744, duration_ms=5744, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 11:24:40], mode=BUILD, duration=0:00:00.498, duration_ms=498, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 11:24:46], mode=BUILD, duration=0:00:05.819, duration_ms=5819, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 11:27:14], mode=BUILD, duration=0:00:00.427, duration_ms=427, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 11:27:20], mode=BUILD, duration=0:00:05.679, duration_ms=5679, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:39:23], mode=BUILD, duration=0:00:00.120, duration_ms=120, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:39:29], mode=BUILD, duration=0:00:05.967, duration_ms=5967, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:39:43], mode=BUILD, duration=0:00:00.494, duration_ms=494, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:39:49], mode=BUILD, duration=0:00:05.827, duration_ms=5827, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:42:17], mode=WORKBENCH_START, duration=0:00:08.140, duration_ms=8140, data={}
+timestamp=[2024-03-15 14:42:18], mode=WORKBENCH_UI_INIT, duration=0:00:00.757, duration_ms=757, data={editors_count=5, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-15 14:42:18], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.028, duration_ms=28, data={}
+timestamp=[2024-03-15 14:42:33], mode=BUILD, duration=0:00:00.150, duration_ms=150, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:42:41], mode=BUILD, duration=0:00:07.635, duration_ms=7635, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:42:56], mode=BUILD, duration=0:00:00.445, duration_ms=445, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 14:43:02], mode=BUILD, duration=0:00:05.834, duration_ms=5834, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 17:28:29], mode=BUILD, duration=0:00:00.138, duration_ms=138, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 17:28:36], mode=BUILD, duration=0:00:06.993, duration_ms=6993, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 17:28:37], mode=BUILD, duration=0:00:00.127, duration_ms=127, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 17:28:43], mode=BUILD, duration=0:00:00.122, duration_ms=122, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 17:28:50], mode=BUILD, duration=0:00:06.591, duration_ms=6591, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 17:40:52], mode=BUILD, duration=0:00:00.487, duration_ms=487, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 17:40:58], mode=BUILD, duration=0:00:05.816, duration_ms=5816, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 18:20:26], mode=BUILD, duration=0:00:00.520, duration_ms=520, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-15 18:20:32], mode=BUILD, duration=0:00:06.325, duration_ms=6325, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-16 15:20:00], mode=WORKBENCH_START, duration=0:00:08.923, duration_ms=8923, data={}
+timestamp=[2024-03-16 15:20:00], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.068, duration_ms=68, data={}
+timestamp=[2024-03-16 15:20:00], mode=WORKBENCH_UI_INIT, duration=0:00:00.833, duration_ms=833, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-18 09:43:33], mode=WORKBENCH_START, duration=0:00:08.146, duration_ms=8146, data={}
+timestamp=[2024-03-18 09:43:34], mode=WORKBENCH_UI_INIT, duration=0:00:00.607, duration_ms=607, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-18 09:43:34], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.060, duration_ms=60, data={}
+timestamp=[2024-03-18 09:44:24], mode=PLATFORM_GENERATION, duration=0:00:38.256, duration_ms=38256, data={name=design_top}
+timestamp=[2024-03-18 09:44:29], mode=BUILD, duration=0:00:00.118, duration_ms=118, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 09:44:35], mode=BUILD, duration=0:00:06.444, duration_ms=6444, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 09:54:38], mode=BUILD, duration=0:00:00.881, duration_ms=881, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 09:54:44], mode=BUILD, duration=0:00:05.402, duration_ms=5402, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 10:56:20], mode=BUILD, duration=0:00:00.491, duration_ms=491, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 10:56:26], mode=BUILD, duration=0:00:05.318, duration_ms=5318, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:46:50], mode=BUILD, duration=0:00:00.581, duration_ms=581, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:46:54], mode=BUILD, duration=0:00:02.899, duration_ms=2899, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:47:13], mode=BUILD, duration=0:00:00.123, duration_ms=123, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:47:13], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:47:32], mode=BUILD, duration=0:00:00.503, duration_ms=503, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:47:35], mode=BUILD, duration=0:00:02.333, duration_ms=2333, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:47:44], mode=BUILD, duration=0:00:00.110, duration_ms=110, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:47:47], mode=BUILD, duration=0:00:00.113, duration_ms=113, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:47:50], mode=BUILD, duration=0:00:02.444, duration_ms=2444, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:48:08], mode=BUILD, duration=0:00:00.111, duration_ms=111, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:48:11], mode=BUILD, duration=0:00:02.272, duration_ms=2272, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:48:18], mode=BUILD, duration=0:00:00.115, duration_ms=115, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:48:24], mode=BUILD, duration=0:00:00.113, duration_ms=113, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:48:27], mode=BUILD, duration=0:00:02.188, duration_ms=2188, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 11:49:03], mode=WORKBENCH_START, duration=0:00:09.243, duration_ms=9243, data={}
+timestamp=[2024-03-18 11:49:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.039, duration_ms=39, data={}
+timestamp=[2024-03-18 11:49:04], mode=WORKBENCH_UI_INIT, duration=0:00:00.833, duration_ms=833, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-18 12:36:49], mode=WORKBENCH_START, duration=0:00:07.730, duration_ms=7730, data={}
+timestamp=[2024-03-18 12:36:49], mode=WORKBENCH_UI_INIT, duration=0:00:00.571, duration_ms=571, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-18 12:36:50], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.040, duration_ms=40, data={}
+timestamp=[2024-03-18 12:38:16], mode=PLATFORM_GENERATION, duration=0:00:26.925, duration_ms=26925, data={name=design_top}
+timestamp=[2024-03-18 12:38:21], mode=BUILD, duration=0:00:00.515, duration_ms=515, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 12:38:28], mode=BUILD, duration=0:00:06.057, duration_ms=6057, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 14:09:36], mode=BUILD, duration=0:00:00.116, duration_ms=116, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 14:09:42], mode=BUILD, duration=0:00:05.248, duration_ms=5248, data={name=hello_r5_system, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 15:22:26], mode=WORKBENCH_START, duration=0:00:07.374, duration_ms=7374, data={}
+timestamp=[2024-03-18 15:22:26], mode=WORKBENCH_UI_INIT, duration=0:00:00.554, duration_ms=554, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_top,hello_r5,hello_r5_system}
+timestamp=[2024-03-18 15:22:26], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.069, duration_ms=69, data={}
+timestamp=[2024-03-18 19:55:19], mode=BUILD, duration=0:00:09.150, duration_ms=9150, data={name=hello_r5, configuration=Debug, clean_build=false}
+timestamp=[2024-03-18 19:55:29], mode=BUILD, duration=0:00:09.143, duration_ms=9143, data={name=hello_r5_system, configuration=Debug, clean_build=false}

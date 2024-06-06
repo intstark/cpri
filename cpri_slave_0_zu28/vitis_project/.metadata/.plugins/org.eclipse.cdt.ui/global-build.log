@@ -1,0 +1,122 @@
+Nothing to build in platform 'design_top'
+
+19:55:10 **** Incremental Build of configuration Debug for project hello_r5 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM R5 gcc compiler'
+armr5-none-eabi-gcc -DARMR5 -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-r5 -mfloat-abi=hard  -mfpu=vfpv3-d16 -ID:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/sw/design_top/standalone_psu_cortexr5_0/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+In file included from D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/sw/design_top/standalone_psu_cortexr5_0/bspinclude/include/xgpio.h:113,
+                 from ../src/helloworld.c:52:
+../src/helloworld.c: In function 'GpioConfig':
+D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/sw/design_top/standalone_psu_cortexr5_0/bspinclude/include/xstatus.h:39:41: warning: 'return' with a value, in function returning void [-Wreturn-type]
+   39 | #define XST_FAILURE                     1L
+      |                                         ^~
+../src/helloworld.c:144:10: note: in expansion of macro 'XST_FAILURE'
+  144 |   return XST_FAILURE;
+      |          ^~~~~~~~~~~
+../src/helloworld.c:134:6: note: declared here
+  134 | void GpioConfig(u16 DEVICE_ID){
+      |      ^~~~~~~~~~
+../src/helloworld.c: In function 'write_si5382_register':
+../src/helloworld.c:215:51: warning: format '%x' expects argument of type 'unsigned int', but argument 4 has type 'u32' {aka 'long unsigned int'} [-Wformat=]
+  215 |    printf("Si5382 0x%x Setting page %d failed (0x%x)\n\r",
+      |                                                  ~^
+      |                                                   |
+      |                                                   unsigned int
+      |                                                  %lx
+  216 |      slaveAddr, buffer[1U], Status);
+      |                             ~~~~~~                 
+      |                             |
+      |                             u32 {aka long unsigned int}
+../src/helloworld.c:230:53: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32' {aka 'long unsigned int'} [-Wformat=]
+  230 |   printf("Si5382 Write of Register Data FAILED  (0x%x)\n\r", Status);
+      |                                                    ~^        ~~~~~~
+      |                                                     |        |
+      |                                                     |        u32 {aka long unsigned int}
+      |                                                     unsigned int
+      |                                                    %lx
+../src/helloworld.c: In function 'read_si5382_register':
+../src/helloworld.c:247:58: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32' {aka 'long unsigned int'} [-Wformat=]
+  247 |   printf("Si5382 Set register values for read failed (0x%x)\n\r", Status);
+      |                                                         ~^        ~~~~~~
+      |                                                          |        |
+      |                                                          |        u32 {aka long unsigned int}
+      |                                                          unsigned int
+      |                                                         %lx
+../src/helloworld.c:254:56: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32' {aka 'long unsigned int'} [-Wformat=]
+  254 |   printf("Si5382 Polled Recv for data read FAILED  (0x%x)\n\r", Status);
+      |                                                       ~^        ~~~~~~
+      |                                                        |        |
+      |                                                        |        u32 {aka long unsigned int}
+      |                                                        unsigned int
+      |                                                       %lx
+../src/helloworld.c: In function 'Si5382_Program':
+../src/helloworld.c:303:35: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 's32' {aka 'long int'} [-Wformat=]
+  303 |   printf("SI5382 set MUX failed (%x)\n\r", Status);
+      |                                  ~^        ~~~~~~
+      |                                   |        |
+      |                                   |        s32 {aka long int}
+      |                                   unsigned int
+      |                                  %lx
+../src/helloworld.c:315:46: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32' {aka 'long unsigned int'} [-Wformat=]
+  315 |   printf("Si5382 identifier is incorrect (0x%x)\n\r", id);
+      |                                             ~^        ~~
+      |                                              |        |
+      |                                              |        u32 {aka long unsigned int}
+      |                                              unsigned int
+      |                                             %lx
+../src/helloworld.c:326:5: warning: implicit declaration of function 'usleep' [-Wimplicit-function-declaration]
+  326 |     usleep(700000);
+      |     ^~~~~~
+../src/helloworld.c:329:46: warning: format '%x' expects a matching 'unsigned int' argument [-Wformat=]
+  329 |     printf("Si5382 Unknown Command Action 0x%x, punting \n\r");
+      |                                             ~^
+      |                                              |
+      |                                              unsigned int
+../src/helloworld.c:339:11: warning: passing argument 4 of 'write_si5382_register' discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+  339 |           &si5382a_reve_registers[idx].value,
+      |           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:198:82: note: expected 'u8 *' {aka 'unsigned char *'} but argument is of type 'const unsigned char *'
+  198 | static u32 write_si5382_register(XIicPs *I2cInstPtr, int slaveAddr, int reg, u8 *writedata, int len)
+      |                                                                              ~~~~^~~~~~~~~
+../src/helloworld.c:366:2: warning: implicit declaration of function 'sleep' [-Wimplicit-function-declaration]
+  366 |  sleep(60);
+      |  ^~~~~
+At top level:
+../src/helloworld.c:188:13: warning: 'StatusHandler' defined but not used [-Wunused-function]
+  188 | static void StatusHandler(XIic *InstancePtr, int Event)
+      |             ^~~~~~~~~~~~~
+../src/helloworld.c:183:13: warning: 'ReceiveHandler' defined but not used [-Wunused-function]
+  183 | static void ReceiveHandler(XIic *InstancePtr)
+      |             ^~~~~~~~~~~~~~
+../src/helloworld.c:178:13: warning: 'SendHandler' defined but not used [-Wunused-function]
+  178 | static void SendHandler(XIic *InstancePtr)
+      |             ^~~~~~~~~~~
+../src/helloworld.c: In function 'GpioConfig':
+../src/helloworld.c:148:45: warning: 'LED' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  148 |  XGpio_SetDataDirection(&Gpio, LED_CHANNEL, ~LED);
+      |                                             ^~~~
+../src/helloworld.c: In function 'Si5382_Program':
+../src/helloworld.c:375:9: warning: 'UStatus' is used uninitialized in this function [-Wuninitialized]
+  375 |  return UStatus;
+      |         ^~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: hello_r5.elf'
+'Invoking: ARM R5 gcc linker'
+armr5-none-eabi-gcc -mcpu=cortex-r5 -mfloat-abi=hard -mfpu=vfpv3-d16 -Wl,-T -Wl,../src/lscript.ld -LD:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/sw/design_top/standalone_psu_cortexr5_0/bsplib/lib -o "hello_r5.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello_r5.elf'
+' '
+'Invoking: ARM R5 Print Size'
+armr5-none-eabi-size hello_r5.elf  |tee "hello_r5.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  52960	   2596	  22768	  78324	  131f4	hello_r5.elf
+'Finished building: hello_r5.elf.size'
+' '
+19:55:19 **** Incremental Build of configuration Debug for project hello_r5_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 1189 D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/design_top.xpfm standalone_psu_cortexr5_0 D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5_system/Debug/system.bif
+sdcard_gen --xpfm D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/design_top.xpfm --sys_config design_top --bif D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5_system/Debug/system.bif --bitstream D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5/_ide/bitstream/design_top.bit --elf D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5/Debug/hello_r5.elf,psu_cortexr5_0
+creating BOOT.BIN using D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5/_ide/bitstream/design_top.bit
+Running D:/Xilinx/Vitis/2020.2/bin/bootgen -arch zynqmp -image D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN

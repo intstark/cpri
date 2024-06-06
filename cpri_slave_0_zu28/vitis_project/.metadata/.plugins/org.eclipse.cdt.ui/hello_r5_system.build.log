@@ -1,0 +1,10 @@
+19:55:19 **** Incremental Build of configuration Debug for project hello_r5_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 1189 D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/design_top.xpfm standalone_psu_cortexr5_0 D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5_system/Debug/system.bif
+sdcard_gen --xpfm D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/design_top.xpfm --sys_config design_top --bif D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5_system/Debug/system.bif --bitstream D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5/_ide/bitstream/design_top.bit --elf D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5/Debug/hello_r5.elf,psu_cortexr5_0
+creating BOOT.BIN using D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5/_ide/bitstream/design_top.bit
+Running D:/Xilinx/Vitis/2020.2/bin/bootgen -arch zynqmp -image D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/hello_r5_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+19:55:29 Build Finished (took 9s.125ms)
+

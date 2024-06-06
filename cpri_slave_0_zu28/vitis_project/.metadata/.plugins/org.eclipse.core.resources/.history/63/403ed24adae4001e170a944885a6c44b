@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="hello_r5" location="D:/ZJYJY/Product/ZU28DR/cpri_slave_0_ex/vitis_project/hello_r5" platform="D:/ZJYJY/Product/ZU28DR/cpri_slave_0_zu28/vitis_project/design_top/export/design_top/design_top.xpfm" platformUID="xilinx:zcu111::0.0(custom)" systemProject="hello_r5_system" sysConfig="design_top" runtime="cpp" cpu="standalone_psu_cortexr5_0" cpuInstance="psu_cortexr5_0" os="standalone" mssSignature="8e00c2432c37afd3e226f252c963c03d">
+  <configuration name="Debug" id="xilinx.gnu.arm.r5.exe.debug.461040252">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.r5.exe.release.1696438029" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
