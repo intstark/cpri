@@ -1,0 +1,200 @@
+timestamp=[2024-05-31 16:37:14], mode=WORKBENCH_START, duration=0:00:05.057, duration_ms=5057, data={}
+timestamp=[2024-05-31 16:37:14], mode=WORKBENCH_UI_INIT, duration=0:00:00.353, duration_ms=353, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-05-31 16:37:17], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.085, duration_ms=2085, data={}
+timestamp=[2024-05-31 16:41:43], mode=PLATFORM_CREATION, duration=0:00:03.764, duration_ms=3764, data={platform_source=dsa, os=standalone, processor=microblaze, platform=null}
+timestamp=[2024-05-31 16:42:07], mode=PLATFORM_GENERATION, duration=0:00:04.866, duration_ms=4866, data={name=microblaze_system}
+timestamp=[2024-05-31 16:47:37], mode=APP_CREATION, duration=0:00:02.087, duration_ms=2087, data={name=hello_world, project_type=sdk, os=standalone, processor=microblaze_0, runtime=C/C++, platform=microblaze_system, application_type=application}
+timestamp=[2024-05-31 16:48:20], mode=BUILD, duration=0:00:01.435, duration_ms=1435, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-05-31 16:48:20], mode=BUILD, duration=0:00:00.208, duration_ms=208, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-05-31 16:50:49], mode=BUILD, duration=0:00:00.120, duration_ms=120, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-03 13:37:48], mode=WORKBENCH_START, duration=0:00:07.671, duration_ms=7671, data={}
+timestamp=[2024-06-03 13:37:49], mode=WORKBENCH_UI_INIT, duration=0:00:00.706, duration_ms=706, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-03 13:37:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.039, duration_ms=39, data={}
+timestamp=[2024-06-03 13:38:11], mode=BUILD, duration=0:00:00.160, duration_ms=160, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-03 13:38:12], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-03 13:38:17], mode=BUILD, duration=0:00:00.142, duration_ms=142, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:09:10], mode=WORKBENCH_START, duration=0:00:09.026, duration_ms=9026, data={}
+timestamp=[2024-06-04 09:09:10], mode=WORKBENCH_UI_INIT, duration=0:00:00.730, duration_ms=730, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-04 09:09:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.070, duration_ms=70, data={}
+timestamp=[2024-06-04 09:18:53], mode=WORKBENCH_START, duration=0:00:07.876, duration_ms=7876, data={}
+timestamp=[2024-06-04 09:18:54], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.044, duration_ms=44, data={}
+timestamp=[2024-06-04 09:18:54], mode=WORKBENCH_UI_INIT, duration=0:00:00.800, duration_ms=800, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-04 09:20:53], mode=PLATFORM_GENERATION, duration=0:00:02.170, duration_ms=2170, data={name=microblaze_system}
+timestamp=[2024-06-04 09:20:59], mode=PLATFORM_GENERATION, duration=0:00:02.977, duration_ms=2977, data={name=microblaze_system}
+timestamp=[2024-06-04 09:21:25], mode=BUILD, duration=0:00:00.558, duration_ms=558, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:21:27], mode=BUILD, duration=0:00:00.132, duration_ms=132, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:29:22], mode=WORKBENCH_START, duration=0:00:07.731, duration_ms=7731, data={}
+timestamp=[2024-06-04 09:29:22], mode=WORKBENCH_UI_INIT, duration=0:00:00.691, duration_ms=691, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-04 09:29:23], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.043, duration_ms=43, data={}
+timestamp=[2024-06-04 09:36:40], mode=WORKBENCH_START, duration=0:00:09.665, duration_ms=9665, data={}
+timestamp=[2024-06-04 09:36:41], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.031, duration_ms=31, data={}
+timestamp=[2024-06-04 09:36:42], mode=WORKBENCH_UI_INIT, duration=0:00:01.295, duration_ms=1295, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-04 09:37:22], mode=PLATFORM_GENERATION, duration=0:00:01.820, duration_ms=1820, data={name=microblaze_system}
+timestamp=[2024-06-04 09:37:24], mode=BUILD, duration=0:00:00.585, duration_ms=585, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:37:24], mode=BUILD, duration=0:00:00.130, duration_ms=130, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:37:33], mode=BUILD, duration=0:00:00.121, duration_ms=121, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:37:33], mode=BUILD, duration=0:00:00.126, duration_ms=126, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:39:25], mode=PLATFORM_GENERATION, duration=0:00:02.005, duration_ms=2005, data={name=microblaze_system}
+timestamp=[2024-06-04 09:39:31], mode=PLATFORM_GENERATION, duration=0:00:02.888, duration_ms=2888, data={name=microblaze_system}
+timestamp=[2024-06-04 09:39:38], mode=BUILD, duration=0:00:00.745, duration_ms=745, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:39:39], mode=BUILD, duration=0:00:00.115, duration_ms=115, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:52:42], mode=BUILD, duration=0:00:00.508, duration_ms=508, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:52:44], mode=BUILD, duration=0:00:00.134, duration_ms=134, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 09:52:44], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 10:00:29], mode=BUILD, duration=0:00:00.447, duration_ms=447, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 10:00:30], mode=BUILD, duration=0:00:00.124, duration_ms=124, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:21:05], mode=BUILD, duration=0:00:00.529, duration_ms=529, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:21:05], mode=BUILD, duration=0:00:00.124, duration_ms=124, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:24:14], mode=BUILD, duration=0:00:00.382, duration_ms=382, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:24:14], mode=BUILD, duration=0:00:00.139, duration_ms=139, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:25:02], mode=BUILD, duration=0:00:00.393, duration_ms=393, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:25:02], mode=BUILD, duration=0:00:00.124, duration_ms=124, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:28:53], mode=BUILD, duration=0:00:00.396, duration_ms=396, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:28:53], mode=BUILD, duration=0:00:00.143, duration_ms=143, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:29:22], mode=BUILD, duration=0:00:00.459, duration_ms=459, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:29:29], mode=BUILD, duration=0:00:00.151, duration_ms=151, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:29:30], mode=BUILD, duration=0:00:00.140, duration_ms=140, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:30:24], mode=BUILD, duration=0:00:00.383, duration_ms=383, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:30:24], mode=BUILD, duration=0:00:00.133, duration_ms=133, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:32:35], mode=BUILD, duration=0:00:00.394, duration_ms=394, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:32:35], mode=BUILD, duration=0:00:00.137, duration_ms=137, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:32:46], mode=BUILD, duration=0:00:00.380, duration_ms=380, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:32:47], mode=BUILD, duration=0:00:00.141, duration_ms=141, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:02], mode=BUILD, duration=0:00:00.396, duration_ms=396, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:02], mode=BUILD, duration=0:00:00.124, duration_ms=124, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:08], mode=BUILD, duration=0:00:00.256, duration_ms=256, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:08], mode=BUILD, duration=0:00:00.147, duration_ms=147, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:31], mode=BUILD, duration=0:00:00.401, duration_ms=401, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:31], mode=BUILD, duration=0:00:00.122, duration_ms=122, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:43], mode=BUILD, duration=0:00:00.383, duration_ms=383, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:33:43], mode=BUILD, duration=0:00:00.139, duration_ms=139, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:34:03], mode=BUILD, duration=0:00:00.456, duration_ms=456, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:34:03], mode=BUILD, duration=0:00:00.133, duration_ms=133, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:34:20], mode=BUILD, duration=0:00:00.377, duration_ms=377, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:34:20], mode=BUILD, duration=0:00:00.125, duration_ms=125, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:37:46], mode=BUILD, duration=0:00:00.381, duration_ms=381, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:37:46], mode=BUILD, duration=0:00:00.140, duration_ms=140, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:38:00], mode=BUILD, duration=0:00:00.394, duration_ms=394, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:38:00], mode=BUILD, duration=0:00:00.133, duration_ms=133, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:38:20], mode=BUILD, duration=0:00:00.381, duration_ms=381, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:38:20], mode=BUILD, duration=0:00:00.139, duration_ms=139, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:39:01], mode=BUILD, duration=0:00:00.383, duration_ms=383, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:39:02], mode=BUILD, duration=0:00:00.120, duration_ms=120, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:41:28], mode=BUILD, duration=0:00:00.391, duration_ms=391, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:41:29], mode=BUILD, duration=0:00:00.139, duration_ms=139, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:45:18], mode=BUILD, duration=0:00:00.458, duration_ms=458, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:45:18], mode=BUILD, duration=0:00:00.143, duration_ms=143, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:46:35], mode=BUILD, duration=0:00:00.398, duration_ms=398, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:46:35], mode=BUILD, duration=0:00:00.140, duration_ms=140, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:47:14], mode=BUILD, duration=0:00:00.334, duration_ms=334, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 14:47:14], mode=BUILD, duration=0:00:00.125, duration_ms=125, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:38:32], mode=WORKBENCH_START, duration=0:00:09.688, duration_ms=9688, data={}
+timestamp=[2024-06-04 16:38:33], mode=WORKBENCH_UI_INIT, duration=0:00:00.814, duration_ms=814, data={editors_count=5, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-04 16:38:33], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.023, duration_ms=23, data={}
+timestamp=[2024-06-04 16:39:08], mode=PLATFORM_GENERATION, duration=0:00:02.493, duration_ms=2493, data={name=microblaze_system}
+timestamp=[2024-06-04 16:39:15], mode=PLATFORM_GENERATION, duration=0:00:03.379, duration_ms=3379, data={name=microblaze_system}
+timestamp=[2024-06-04 16:39:51], mode=BUILD, duration=0:00:00.517, duration_ms=517, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:39:53], mode=BUILD, duration=0:00:00.155, duration_ms=155, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:43:36], mode=BUILD, duration=0:00:00.281, duration_ms=281, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:43:36], mode=BUILD, duration=0:00:00.159, duration_ms=159, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:09], mode=BUILD, duration=0:00:00.158, duration_ms=158, data={name=hello_world_system, configuration=Debug, clean_build=true}
+timestamp=[2024-06-04 16:54:12], mode=BUILD, duration=0:00:00.280, duration_ms=280, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:13], mode=BUILD, duration=0:00:00.148, duration_ms=148, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:28], mode=BUILD, duration=0:00:00.409, duration_ms=409, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:29], mode=BUILD, duration=0:00:00.140, duration_ms=140, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:38], mode=BUILD, duration=0:00:00.486, duration_ms=486, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:38], mode=BUILD, duration=0:00:00.167, duration_ms=167, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:53], mode=BUILD, duration=0:00:00.530, duration_ms=530, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:54:53], mode=BUILD, duration=0:00:00.150, duration_ms=150, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:56:36], mode=PLATFORM_GENERATION, duration=0:00:02.355, duration_ms=2355, data={name=microblaze_system}
+timestamp=[2024-06-04 16:56:44], mode=PLATFORM_GENERATION, duration=0:00:03.355, duration_ms=3355, data={name=microblaze_system}
+timestamp=[2024-06-04 16:57:01], mode=PLATFORM_GENERATION, duration=0:00:02.505, duration_ms=2505, data={name=microblaze_system}
+timestamp=[2024-06-04 16:57:01], mode=BUILD, duration=0:00:00.138, duration_ms=138, data={name=hello_world, configuration=Debug, clean_build=true}
+timestamp=[2024-06-04 16:57:07], mode=PLATFORM_GENERATION, duration=0:00:03.123, duration_ms=3123, data={name=microblaze_system}
+timestamp=[2024-06-04 16:57:08], mode=BUILD, duration=0:00:00.514, duration_ms=514, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:57:27], mode=BUILD, duration=0:00:00.531, duration_ms=531, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:57:28], mode=BUILD, duration=0:00:00.143, duration_ms=143, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:57:40], mode=BUILD, duration=0:00:00.534, duration_ms=534, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:57:41], mode=BUILD, duration=0:00:00.150, duration_ms=150, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:57:48], mode=BUILD, duration=0:00:00.537, duration_ms=537, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:57:49], mode=BUILD, duration=0:00:00.152, duration_ms=152, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:00], mode=BUILD, duration=0:00:00.457, duration_ms=457, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:00], mode=BUILD, duration=0:00:00.140, duration_ms=140, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:18], mode=BUILD, duration=0:00:00.413, duration_ms=413, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:19], mode=BUILD, duration=0:00:00.168, duration_ms=168, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:24], mode=BUILD, duration=0:00:00.293, duration_ms=293, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:24], mode=BUILD, duration=0:00:00.151, duration_ms=151, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:42], mode=BUILD, duration=0:00:00.411, duration_ms=411, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:42], mode=BUILD, duration=0:00:00.156, duration_ms=156, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:52], mode=BUILD, duration=0:00:00.534, duration_ms=534, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 16:58:53], mode=BUILD, duration=0:00:00.161, duration_ms=161, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:00:08], mode=BUILD, duration=0:00:00.147, duration_ms=147, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:00:08], mode=BUILD, duration=0:00:00.155, duration_ms=155, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:00:16], mode=BUILD, duration=0:00:00.155, duration_ms=155, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:00:16], mode=BUILD, duration=0:00:00.142, duration_ms=142, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:00:26], mode=BUILD, duration=0:00:00.407, duration_ms=407, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:00:29], mode=BUILD, duration=0:00:00.276, duration_ms=276, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:00:30], mode=BUILD, duration=0:00:00.153, duration_ms=153, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:02:17], mode=WORKBENCH_START, duration=0:00:11.025, duration_ms=11025, data={}
+timestamp=[2024-06-04 17:02:18], mode=WORKBENCH_UI_INIT, duration=0:00:01.172, duration_ms=1172, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-04 17:02:18], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.030, duration_ms=30, data={}
+timestamp=[2024-06-04 17:02:48], mode=BUILD, duration=0:00:00.600, duration_ms=600, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:02:49], mode=BUILD, duration=0:00:00.174, duration_ms=174, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:06:59], mode=WORKBENCH_START, duration=0:00:08.596, duration_ms=8596, data={}
+timestamp=[2024-06-04 17:06:59], mode=WORKBENCH_UI_INIT, duration=0:00:00.826, duration_ms=826, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-04 17:07:00], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.016, duration_ms=16, data={}
+timestamp=[2024-06-04 17:09:04], mode=PLATFORM_GENERATION, duration=0:00:02.264, duration_ms=2264, data={name=microblaze_system}
+timestamp=[2024-06-04 17:09:04], mode=BUILD, duration=0:00:00.170, duration_ms=170, data={name=hello_world, configuration=Debug, clean_build=true}
+timestamp=[2024-06-04 17:09:05], mode=BUILD, duration=0:00:00.664, duration_ms=664, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:09:06], mode=BUILD, duration=0:00:00.164, duration_ms=164, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:09:20], mode=BUILD, duration=0:00:00.408, duration_ms=408, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:09:21], mode=BUILD, duration=0:00:00.144, duration_ms=144, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:09:56], mode=BUILD, duration=0:00:00.284, duration_ms=284, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:09:56], mode=BUILD, duration=0:00:00.161, duration_ms=161, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:10:08], mode=BUILD, duration=0:00:00.536, duration_ms=536, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:10:09], mode=BUILD, duration=0:00:00.148, duration_ms=148, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:20:00], mode=BUILD, duration=0:00:00.607, duration_ms=607, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:20:08], mode=BUILD, duration=0:00:00.160, duration_ms=160, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:20:08], mode=BUILD, duration=0:00:00.164, duration_ms=164, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:20:17], mode=BUILD, duration=0:00:00.150, duration_ms=150, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:20:17], mode=BUILD, duration=0:00:00.152, duration_ms=152, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:20:29], mode=BUILD, duration=0:00:00.162, duration_ms=162, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:20:29], mode=BUILD, duration=0:00:00.148, duration_ms=148, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:21:35], mode=BUILD, duration=0:00:00.471, duration_ms=471, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:21:35], mode=BUILD, duration=0:00:00.152, duration_ms=152, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:21:50], mode=BUILD, duration=0:00:00.535, duration_ms=535, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:21:50], mode=BUILD, duration=0:00:00.155, duration_ms=155, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:22:10], mode=BUILD, duration=0:00:00.397, duration_ms=397, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:22:11], mode=BUILD, duration=0:00:00.159, duration_ms=159, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:22:22], mode=BUILD, duration=0:00:00.546, duration_ms=546, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:22:23], mode=BUILD, duration=0:00:00.139, duration_ms=139, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:23:07], mode=BUILD, duration=0:00:00.529, duration_ms=529, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:23:07], mode=BUILD, duration=0:00:00.162, duration_ms=162, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:23:19], mode=BUILD, duration=0:00:00.166, duration_ms=166, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:23:20], mode=BUILD, duration=0:00:00.150, duration_ms=150, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:39:44], mode=BUILD, duration=0:00:00.456, duration_ms=456, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:39:45], mode=BUILD, duration=0:00:00.148, duration_ms=148, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:40:02], mode=BUILD, duration=0:00:00.546, duration_ms=546, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:40:02], mode=BUILD, duration=0:00:00.154, duration_ms=154, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:47:05], mode=BUILD, duration=0:00:00.537, duration_ms=537, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:47:06], mode=BUILD, duration=0:00:00.172, duration_ms=172, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:50:01], mode=BUILD, duration=0:00:00.533, duration_ms=533, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:50:02], mode=BUILD, duration=0:00:00.154, duration_ms=154, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:50:20], mode=BUILD, duration=0:00:00.536, duration_ms=536, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-04 17:50:21], mode=BUILD, duration=0:00:00.152, duration_ms=152, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-05 10:15:05], mode=WORKBENCH_START, duration=0:00:09.801, duration_ms=9801, data={}
+timestamp=[2024-06-05 10:15:06], mode=WORKBENCH_UI_INIT, duration=0:00:00.835, duration_ms=835, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-05 10:15:06], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.039, duration_ms=39, data={}
+timestamp=[2024-06-05 15:22:45], mode=BUILD, duration=0:00:01.820, duration_ms=1820, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-05 15:22:46], mode=BUILD, duration=0:00:00.142, duration_ms=142, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-05 15:23:57], mode=BUILD, duration=0:00:01.559, duration_ms=1559, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-05 15:23:58], mode=BUILD, duration=0:00:00.135, duration_ms=135, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-05 17:56:37], mode=WORKBENCH_START, duration=0:00:13.030, duration_ms=13030, data={}
+timestamp=[2024-06-05 17:56:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.048, duration_ms=48, data={}
+timestamp=[2024-06-05 17:56:39], mode=WORKBENCH_UI_INIT, duration=0:00:01.109, duration_ms=1109, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-05 18:08:12], mode=WORKBENCH_START, duration=0:00:09.191, duration_ms=9191, data={}
+timestamp=[2024-06-05 18:08:12], mode=WORKBENCH_UI_INIT, duration=0:00:00.718, duration_ms=718, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,hello_world,hello_world_system,microblaze_system}
+timestamp=[2024-06-05 18:08:12], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.036, duration_ms=36, data={}
+timestamp=[2024-06-05 18:08:38], mode=PLATFORM_GENERATION, duration=0:00:05.842, duration_ms=5842, data={name=microblaze_system}
+timestamp=[2024-06-05 18:08:39], mode=BUILD, duration=0:00:00.512, duration_ms=512, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-06-05 18:08:40], mode=BUILD, duration=0:00:00.130, duration_ms=130, data={name=hello_world_system, configuration=Debug, clean_build=false}

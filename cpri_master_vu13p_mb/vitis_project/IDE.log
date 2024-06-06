@@ -1,0 +1,264 @@
+16:37:15 INFO  : Registering command handlers for Vitis TCF services
+16:37:15 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+16:37:17 INFO  : Platform repository initialization has completed.
+16:37:18 INFO  : XSCT server has started successfully.
+16:37:19 INFO  : plnx-install-location is set to ''
+16:37:19 INFO  : Successfully done setting XSCT server connection channel  
+16:37:19 INFO  : Successfully done query RDI_DATADIR 
+16:37:19 INFO  : Successfully done setting workspace for the tool. 
+16:41:43 INFO  : Result from executing command 'getProjects': microblaze_system
+16:41:43 INFO  : Result from executing command 'getPlatforms': 
+16:42:07 INFO  : Result from executing command 'getProjects': microblaze_system
+16:42:07 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+16:48:18 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:50:49 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:51:08 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:51:26 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+16:51:26 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+16:51:34 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:51:52 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+16:51:52 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+13:37:44 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+13:37:46 INFO  : XSCT server has started successfully.
+13:37:46 INFO  : Successfully done setting XSCT server connection channel  
+13:37:46 INFO  : plnx-install-location is set to ''
+13:37:46 INFO  : Successfully done setting workspace for the tool. 
+13:37:49 INFO  : Platform repository initialization has completed.
+13:37:49 INFO  : Successfully done query RDI_DATADIR 
+13:37:49 INFO  : Registering command handlers for Vitis TCF services
+13:38:11 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+13:38:17 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:09:05 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+09:09:07 INFO  : XSCT server has started successfully.
+09:09:07 INFO  : plnx-install-location is set to ''
+09:09:07 INFO  : Successfully done setting XSCT server connection channel  
+09:09:07 INFO  : Successfully done setting workspace for the tool. 
+09:09:10 INFO  : Platform repository initialization has completed.
+09:09:11 INFO  : Successfully done query RDI_DATADIR 
+09:09:11 INFO  : Registering command handlers for Vitis TCF services
+09:18:50 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+09:18:52 INFO  : XSCT server has started successfully.
+09:18:52 INFO  : plnx-install-location is set to ''
+09:18:52 INFO  : Successfully done setting XSCT server connection channel  
+09:18:52 INFO  : Successfully done setting workspace for the tool. 
+09:18:54 INFO  : Platform repository initialization has completed.
+09:18:54 INFO  : Successfully done query RDI_DATADIR 
+09:18:55 INFO  : Registering command handlers for Vitis TCF services
+09:19:11 INFO  : Hardware specification for platform project 'microblaze_system' is updated.
+09:20:59 INFO  : Result from executing command 'getProjects': microblaze_system
+09:20:59 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+09:21:24 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:21:25 INFO  : The hardware specfication used by project 'hello_world' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+09:21:25 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.bit' stored in project is removed.
+09:21:25 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.mmi' stored in project is removed.
+09:21:26 INFO  : The updated bitstream files are copied from platform to folder 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream' in project 'hello_world'.
+09:29:18 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb20240604\vitis_project\temp_xsdb_launch_script.tcl
+09:29:20 INFO  : XSCT server has started successfully.
+09:29:20 INFO  : plnx-install-location is set to ''
+09:29:20 INFO  : Successfully done setting XSCT server connection channel  
+09:29:20 INFO  : Successfully done setting workspace for the tool. 
+09:29:23 ERROR : Error encountered while initializing user repository paths
+Reason: No Platforms Found.
+
+
+09:29:23 INFO  : Platform repository initialization has completed.
+09:29:23 INFO  : Successfully done query RDI_DATADIR 
+09:29:23 INFO  : Registering command handlers for Vitis TCF services
+09:30:20 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:30:20 ERROR : Failed to get platform details for the project 'hello_world'. Cannot sync application flags.
+09:31:38 INFO  : Hardware specification for platform project 'microblaze_system' is updated.
+09:36:36 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+09:36:38 INFO  : XSCT server has started successfully.
+09:36:38 INFO  : Successfully done setting XSCT server connection channel  
+09:36:38 INFO  : plnx-install-location is set to ''
+09:36:38 INFO  : Successfully done setting workspace for the tool. 
+09:36:41 INFO  : Platform repository initialization has completed.
+09:36:41 INFO  : Successfully done query RDI_DATADIR 
+09:36:42 INFO  : Registering command handlers for Vitis TCF services
+09:37:22 INFO  : Result from executing command 'getProjects': microblaze_system
+09:37:22 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+09:37:22 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:37:33 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:38:20 INFO  : Hardware specification for platform project 'microblaze_system' is updated.
+09:39:31 INFO  : Result from executing command 'getProjects': microblaze_system
+09:39:31 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+09:39:38 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:52:41 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:52:43 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:00:29 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:21:04 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:24:14 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:25:01 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:28:52 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:29:21 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:29:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:29:27 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:29:44 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+14:29:44 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+14:30:23 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:32:34 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:32:46 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:33:02 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:33:07 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:33:30 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:33:42 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:34:02 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:34:19 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:37:45 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:37:59 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:38:19 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:39:01 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:41:28 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:45:17 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:46:34 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+14:47:13 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:38:27 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+16:38:30 INFO  : XSCT server has started successfully.
+16:38:30 INFO  : plnx-install-location is set to ''
+16:38:30 INFO  : Successfully done setting XSCT server connection channel  
+16:38:30 INFO  : Successfully done setting workspace for the tool. 
+16:38:33 INFO  : Platform repository initialization has completed.
+16:38:33 INFO  : Successfully done query RDI_DATADIR 
+16:38:34 INFO  : Registering command handlers for Vitis TCF services
+16:38:51 INFO  : Hardware specification for platform project 'microblaze_system' is updated.
+16:39:15 INFO  : Result from executing command 'getProjects': microblaze_system
+16:39:15 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+16:39:50 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:39:52 INFO  : The hardware specfication used by project 'hello_world' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+16:39:52 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.bit' stored in project is removed.
+16:39:52 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.mmi' stored in project is removed.
+16:39:53 INFO  : The updated bitstream files are copied from platform to folder 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream' in project 'hello_world'.
+16:43:35 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:54:12 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:54:28 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:54:37 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:54:52 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:56:24 INFO  : No changes in MSS file content so sources will not be generated.
+16:56:44 INFO  : Result from executing command 'getProjects': microblaze_system
+16:56:44 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+16:57:07 INFO  : Result from executing command 'getProjects': microblaze_system
+16:57:07 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+16:57:07 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:57:27 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:57:40 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:57:48 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:57:59 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:58:18 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:58:23 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:58:41 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:58:52 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:00:08 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:00:15 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:00:26 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:00:29 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:02:11 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+17:02:14 INFO  : XSCT server has started successfully.
+17:02:14 INFO  : plnx-install-location is set to ''
+17:02:14 INFO  : Successfully done setting XSCT server connection channel  
+17:02:14 INFO  : Successfully done setting workspace for the tool. 
+17:02:18 INFO  : Platform repository initialization has completed.
+17:02:19 INFO  : Successfully done query RDI_DATADIR 
+17:02:19 INFO  : Registering command handlers for Vitis TCF services
+17:02:47 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:03:03 INFO  : Inferring section assignments and sizes from elf file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\Debug\hello_world.elf
+17:06:54 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+17:06:57 INFO  : XSCT server has started successfully.
+17:06:57 INFO  : Successfully done setting XSCT server connection channel  
+17:06:57 INFO  : plnx-install-location is set to ''
+17:06:57 INFO  : Successfully done setting workspace for the tool. 
+17:07:00 INFO  : Platform repository initialization has completed.
+17:07:00 INFO  : Successfully done query RDI_DATADIR 
+17:07:00 INFO  : Registering command handlers for Vitis TCF services
+17:08:26 INFO  : Inferring section assignments and sizes from elf file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\Debug\hello_world.elf
+17:08:47 INFO  : Successfully generated E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\src\lscript.ld.
+17:08:47 INFO  : Applying linker script to all configurations of project hello_world.
+17:08:47 INFO  : Setting rebuild state to true for all configurations of project hello_world.
+17:09:04 INFO  : Result from executing command 'getProjects': microblaze_system
+17:09:04 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+17:09:04 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:09:20 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:09:55 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:10:08 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:19:59 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:20:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:20:06 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:20:16 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:20:23 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+17:20:23 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+17:20:29 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:21:34 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:21:49 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:22:10 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:22:22 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:23:06 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:23:19 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:39:44 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:40:01 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:47:05 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:50:01 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:50:20 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:15:01 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+10:15:03 INFO  : XSCT server has started successfully.
+10:15:03 INFO  : plnx-install-location is set to ''
+10:15:03 INFO  : Successfully done setting XSCT server connection channel  
+10:15:03 INFO  : Successfully done setting workspace for the tool. 
+10:15:06 INFO  : Platform repository initialization has completed.
+10:15:07 INFO  : Successfully done query RDI_DATADIR 
+10:15:07 INFO  : Registering command handlers for Vitis TCF services
+15:22:42 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+15:23:56 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:56:29 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+17:56:33 INFO  : XSCT server has started successfully.
+17:56:33 INFO  : plnx-install-location is set to ''
+17:56:33 INFO  : Successfully done setting XSCT server connection channel  
+17:56:33 INFO  : Successfully done setting workspace for the tool. 
+17:56:39 INFO  : Platform repository initialization has completed.
+17:56:39 INFO  : Successfully done query RDI_DATADIR 
+17:56:39 INFO  : Registering command handlers for Vitis TCF services
+18:08:07 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+18:08:09 INFO  : XSCT server has started successfully.
+18:08:09 INFO  : Successfully done setting XSCT server connection channel  
+18:08:09 INFO  : plnx-install-location is set to ''
+18:08:09 INFO  : Successfully done setting workspace for the tool. 
+18:08:12 INFO  : Platform repository initialization has completed.
+18:08:13 INFO  : Successfully done query RDI_DATADIR 
+18:08:13 INFO  : Registering command handlers for Vitis TCF services
+18:08:38 INFO  : Result from executing command 'getProjects': microblaze_system
+18:08:38 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+18:08:38 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
