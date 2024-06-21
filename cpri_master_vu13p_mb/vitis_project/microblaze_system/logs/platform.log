@@ -4133,3 +4133,1857 @@ TRACE::2024-06-05.18:08:38::SCWMssOS::Checking the sw design at  E:/ZJYJY/Produc
 TRACE::2024-06-05.18:08:38::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
 
 TRACE::2024-06-05.18:08:38::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:08::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:08::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:08::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:10::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:10::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:10::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:10::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-07.09:02:11::SCWPlatform::Opened new HwDB with name bbu_top
+TRACE::2024-06-07.09:02:11::SCWReader::Active system found as  microblaze_system
+TRACE::2024-06-07.09:02:11::SCWReader::Handling sysconfig microblaze_system
+TRACE::2024-06-07.09:02:11::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:11::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-07.09:02:11::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.09:02:11::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.09:02:11::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.09:02:11::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.09:02:11::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.09:02:11::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-06-07.09:02:11::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:11::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.09:02:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:11::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:11::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:11::SCWReader::No isolation master present  
+TRACE::2024-06-07.09:02:19::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.09:02:19::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.09:02:19::SCWPlatform:: Platform location is E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa
+TRACE::2024-06-07.09:02:19::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.09:02:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:20::SCWMssOS::Doing hw sync for the mss in domain: standalone_domain
+TRACE::2024-06-07.09:02:20::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:20::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.09:02:20::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.09:02:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:20::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:20::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.09:02:20::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.09:02:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:20::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:20::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:20::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:20::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:20::SCWPlatform::update - Opened existing hwdb bbu_top_0
+TRACE::2024-06-07.09:02:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:20::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:20::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.09:02:20::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.09:02:20::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.09:02:20::SCWMssOS::Completed hw sync for the mss in domain: standalone_domain
+TRACE::2024-06-07.09:02:20::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:20::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:20::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-07.09:02:21::SCWPlatform::Opened new HwDB with name bbu_top_1
+TRACE::2024-06-07.09:02:21::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:21::SCWMssOS::Adding the swdes entry, mss present, able to open swdb E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.09:02:22::SCWMssOS::Writing the mss file completed E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:22::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.09:02:22::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:22::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:22::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:22::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:22::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:22::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:22::SCWPlatform::Trying to set the existing hwdb with name bbu_top_1
+TRACE::2024-06-07.09:02:22::SCWPlatform::Opened existing hwdb bbu_top_1
+TRACE::2024-06-07.09:02:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:22::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:22::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:22::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:22::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_system",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_system",
+	"platHandOff":	"E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/bbu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_system",
+	"systems":	[{
+			"systemName":	"microblaze_system",
+			"systemDesc":	"microblaze_system",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_system",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"d32edc638aec6636de955b160cbffa9e",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-06-07.09:02:29::SCWPlatform::Clearing the existing platform
+TRACE::2024-06-07.09:02:29::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-06-07.09:02:29::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:29::SCWSystem::Clearing the domains completed.
+TRACE::2024-06-07.09:02:29::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-06-07.09:02:29::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform:: Platform location is E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:29::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:29::SCWPlatform::Removing the HwDB with name E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:29::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:29::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:29::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-07.09:02:30::SCWPlatform::Opened new HwDB with name bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWReader::Active system found as  microblaze_system
+TRACE::2024-06-07.09:02:30::SCWReader::Handling sysconfig microblaze_system
+TRACE::2024-06-07.09:02:30::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:30::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-07.09:02:30::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.09:02:30::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.09:02:30::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.09:02:30::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.09:02:30::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.09:02:30::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-06-07.09:02:30::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:30::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:30::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:30::SCWReader::No isolation master present  
+TRACE::2024-06-07.09:02:32::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:32::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:32::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:32::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:32::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:32::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::In reload Mss file.
+TRACE::2024-06-07.09:02:32::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:32::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:32::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:32::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:32::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-06-07.09:02:32::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-06-07.09:02:32::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-06-07.09:02:32::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-06-07.09:02:32::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.09:02:32::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.09:02:32::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.09:02:32::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.09:02:32::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.09:02:32::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:32::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:32::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:32::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:32::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:32::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:32::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:32::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:38::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:38::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:38::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:38::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:38::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:38::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:38::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:38::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:38::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:38::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-07.09:02:38::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:38::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:38::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:38::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.09:02:38::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.09:02:38::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:38::SCWMssOS::Completed writing the mss file at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp
+TRACE::2024-06-07.09:02:38::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-06-07.09:02:46::SCWMssOS::cleaning the bsp 
+TRACE::2024-06-07.09:02:46::SCWMssOS::System Command Ran  E: & cd  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp & make clean 
+TRACE::2024-06-07.09:02:46::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s clean 
+
+TRACE::2024-06-07.09:02:46::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s clean 
+
+TRACE::2024-06-07.09:02:46::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s clean 
+
+TRACE::2024-06-07.09:02:46::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s clean 
+
+TRACE::2024-06-07.09:02:46::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s clean 
+
+TRACE::2024-06-07.09:02:46::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-06-07.09:02:53::SCWPlatform::Started generating the artifacts platform microblaze_system
+TRACE::2024-06-07.09:02:53::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-06-07.09:02:53::SCWPlatform::Started generating the artifacts for system configuration microblaze_system
+LOG::2024-06-07.09:02:53::SCWSystem::Checking the domain standalone_domain
+LOG::2024-06-07.09:02:53::SCWSystem::Not a boot domain 
+LOG::2024-06-07.09:02:53::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-06-07.09:02:53::SCWDomain::Generating domain artifcats
+TRACE::2024-06-07.09:02:53::SCWMssOS::Generating standalone artifcats
+TRACE::2024-06-07.09:02:53::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-06-07.09:02:53::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:53::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:53::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:53::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:53::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:53::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:53::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:53::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:53::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-06-07.09:02:53::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-06-07.09:02:53::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-06-07.09:02:53::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:53::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:53::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:53::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.09:02:53::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.09:02:53::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:53::SCWMssOS::Completed writing the mss file at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp
+TRACE::2024-06-07.09:02:53::SCWMssOS::Mss edits present, copying mssfile into export location E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:53::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-06-07.09:02:53::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-06-07.09:02:53::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-06-07.09:02:53::SCWMssOS::doing bsp build ... 
+TRACE::2024-06-07.09:02:53::SCWMssOS::System Command Ran  E: & cd  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-06-07.09:02:53::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-07.09:02:53::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-07.09:02:53::SCWMssOS::-Wextra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_7/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-07.09:02:53::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-07.09:02:53::SCWMssOS::-Wextra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-07.09:02:53::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-07.09:02:53::SCWMssOS::-Wextra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-06-07.09:02:53::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-06-07.09:02:53::SCWMssOS::-Wall -Wextra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_5/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-06-07.09:02:53::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-06-07.09:02:53::SCWMssOS::all -Wextra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-07.09:02:53::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-07.09:02:53::SCWMssOS::xtra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_7/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-07.09:02:53::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-07.09:02:53::SCWMssOS::xtra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-07.09:02:53::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-07.09:02:53::SCWMssOS::xtra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-06-07.09:02:53::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-06-07.09:02:53::SCWMssOS::ll -Wextra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_5/src"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-06-07.09:02:53::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-06-07.09:02:53::SCWMssOS:: -Wextra"
+
+TRACE::2024-06-07.09:02:53::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-06-07.09:02:55::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-06-07.09:02:55::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-06-07.09:02:55::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2024-06-07.09:02:55::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_testio.o microblaze_0/lib/microblaz
+TRACE::2024-06-07.09:02:55::SCWMssOS::e_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/
+TRACE::2024-06-07.09:02:55::SCWMssOS::lib/xbram_sinit.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0
+TRACE::2024-06-07.09:02:55::SCWMssOS::/lib/inbyte.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xbram_g.o microblaze_0/lib/microblaze_scrub.o mi
+TRACE::2024-06-07.09:02:55::SCWMssOS::croblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/xbram_selftest.
+TRACE::2024-06-07.09:02:55::SCWMssOS::o microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/xgpio_g.o micro
+TRACE::2024-06-07.09:02:55::SCWMssOS::blaze_0/lib/xil_mem.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xil_sl
+TRACE::2024-06-07.09:02:55::SCWMssOS::eepcommon.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xio.o microblaze_0/lib/outbyte.o microblaze_0/lib/xgpio_intr.o micro
+TRACE::2024-06-07.09:02:55::SCWMssOS::blaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/microblaze_invalidate_cache_ex
+TRACE::2024-06-07.09:02:55::SCWMssOS::t.o microblaze_0/lib/microblaze_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xuartlite_selftest.o microblaz
+TRACE::2024-06-07.09:02:55::SCWMssOS::e_0/lib/xgpio_sinit.o microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_
+TRACE::2024-06-07.09:02:55::SCWMssOS::selftest.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microbla
+TRACE::2024-06-07.09:02:55::SCWMssOS::ze_enable_dcache.o microblaze_0/lib/xbram.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/xuartlite_si
+TRACE::2024-06-07.09:02:55::SCWMssOS::nit.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/errno.o 
+TRACE::2024-06-07.09:02:55::SCWMssOS::microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o micr
+TRACE::2024-06-07.09:02:55::SCWMssOS::oblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xgpio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/mi
+TRACE::2024-06-07.09:02:55::SCWMssOS::croblaze_update_icache.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/xil_cloc
+TRACE::2024-06-07.09:02:55::SCWMssOS::king.o microblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xgpio_extra.o microblaze_
+TRACE::2024-06-07.09:02:55::SCWMssOS::0/lib/microblaze_enable_icache.o microblaze_0/lib/microblaze_init_icache_range.o microblaze_0/lib/fcntl.o microblaze_0/lib/xgpi
+TRACE::2024-06-07.09:02:55::SCWMssOS::o_selftest.o
+
+TRACE::2024-06-07.09:02:55::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-06-07.09:02:55::SCWMssOS::Copying to export directory.
+TRACE::2024-06-07.09:02:55::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-06-07.09:02:55::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-06-07.09:02:55::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-06-07.09:02:55::SCWSystem::Completed Processing the sysconfig microblaze_system
+LOG::2024-06-07.09:02:55::SCWPlatform::Completed generating the artifacts for system configuration microblaze_system
+TRACE::2024-06-07.09:02:55::SCWPlatform::Started preparing the platform 
+TRACE::2024-06-07.09:02:55::SCWSystem::Writing the bif file for system config microblaze_system
+TRACE::2024-06-07.09:02:55::SCWSystem::dir created 
+TRACE::2024-06-07.09:02:55::SCWSystem::Writing the bif 
+TRACE::2024-06-07.09:02:55::SCWPlatform::Started writing the spfm file 
+TRACE::2024-06-07.09:02:55::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-06-07.09:02:55::SCWPlatform::Completed generating the platform
+TRACE::2024-06-07.09:02:55::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.09:02:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.09:02:55::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.09:02:55::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:55::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:55::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:55::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:55::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:55::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:55::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:55::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_system",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_system",
+	"platHandOff":	"E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/bbu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_system",
+	"systems":	[{
+			"systemName":	"microblaze_system",
+			"systemDesc":	"microblaze_system",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_system",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"def5aa6aae4bc487160408a88bc33481",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-06-07.09:02:55::SCWPlatform::updated the xpfm file.
+TRACE::2024-06-07.09:02:55::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.09:02:55::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.09:02:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.09:02:55::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.09:02:55::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.09:02:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.09:02:55::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.09:02:55::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.09:02:55::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:51::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:51::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:51::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:52::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:25:52::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:25:52::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-07.16:25:53::SCWPlatform::Opened new HwDB with name bbu_top
+TRACE::2024-06-07.16:25:53::SCWReader::Active system found as  microblaze_system
+TRACE::2024-06-07.16:25:53::SCWReader::Handling sysconfig microblaze_system
+TRACE::2024-06-07.16:25:53::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:25:53::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-07.16:25:53::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.16:25:53::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.16:25:53::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.16:25:53::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.16:25:53::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.16:25:53::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-06-07.16:25:53::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:25:53::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.16:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:25:53::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:25:53::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:25:53::SCWReader::No isolation master present  
+TRACE::2024-06-07.16:26:03::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.16:26:03::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.16:26:03::SCWPlatform:: Platform location is E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa
+TRACE::2024-06-07.16:26:03::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.16:26:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:04::SCWMssOS::Doing hw sync for the mss in domain: standalone_domain
+TRACE::2024-06-07.16:26:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:04::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.16:26:04::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.16:26:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:04::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-07.16:26:04::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-07.16:26:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:04::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:04::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:26:04::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:04::SCWPlatform::update - Opened existing hwdb bbu_top_0
+TRACE::2024-06-07.16:26:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:04::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:04::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.16:26:04::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.16:26:04::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.16:26:04::SCWMssOS::Completed hw sync for the mss in domain: standalone_domain
+TRACE::2024-06-07.16:26:04::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:04::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-07.16:26:05::SCWPlatform::Opened new HwDB with name bbu_top_1
+TRACE::2024-06-07.16:26:05::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:05::SCWMssOS::Adding the swdes entry, mss present, able to open swdb E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.16:26:05::SCWMssOS::Writing the mss file completed E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:05::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.16:26:05::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:05::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:05::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:05::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:05::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:05::SCWPlatform::Trying to set the existing hwdb with name bbu_top_1
+TRACE::2024-06-07.16:26:05::SCWPlatform::Opened existing hwdb bbu_top_1
+TRACE::2024-06-07.16:26:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:05::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:05::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:26:05::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:05::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_system",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_system",
+	"platHandOff":	"E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/bbu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_system",
+	"systems":	[{
+			"systemName":	"microblaze_system",
+			"systemDesc":	"microblaze_system",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_system",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"def5aa6aae4bc487160408a88bc33481",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-06-07.16:26:28::SCWPlatform::Clearing the existing platform
+TRACE::2024-06-07.16:26:28::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-06-07.16:26:28::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:28::SCWSystem::Clearing the domains completed.
+TRACE::2024-06-07.16:26:28::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-06-07.16:26:28::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform:: Platform location is E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:28::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:28::SCWPlatform::Removing the HwDB with name E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:28::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:28::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:28::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-07.16:26:29::SCWPlatform::Opened new HwDB with name bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWReader::Active system found as  microblaze_system
+TRACE::2024-06-07.16:26:29::SCWReader::Handling sysconfig microblaze_system
+TRACE::2024-06-07.16:26:29::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:29::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-07.16:26:29::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.16:26:29::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.16:26:29::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.16:26:29::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.16:26:29::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.16:26:29::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-06-07.16:26:29::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:29::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:29::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:29::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:26:29::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:29::SCWReader::No isolation master present  
+TRACE::2024-06-07.16:26:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:30::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:26:30::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::In reload Mss file.
+TRACE::2024-06-07.16:26:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:30::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-06-07.16:26:30::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-06-07.16:26:30::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-06-07.16:26:30::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-06-07.16:26:30::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.16:26:30::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.16:26:30::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.16:26:30::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.16:26:30::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.16:26:30::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:30::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:30::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:30::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:30::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:30::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:26:30::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:30::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:32::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:32::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:32::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:32::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:26:32::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:26:32::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:26:32::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:26:32::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:26:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:26:32::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:32::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-07.16:26:32::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:32::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:32::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:32::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.16:26:32::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.16:26:32::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:26:32::SCWMssOS::Completed writing the mss file at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp
+TRACE::2024-06-07.16:26:32::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-06-07.16:26:39::SCWMssOS::cleaning the bsp 
+TRACE::2024-06-07.16:26:39::SCWMssOS::System Command Ran  E: & cd  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp & make clean 
+TRACE::2024-06-07.16:26:39::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s clean 
+
+TRACE::2024-06-07.16:26:39::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s clean 
+
+TRACE::2024-06-07.16:26:39::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s clean 
+
+TRACE::2024-06-07.16:26:39::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s clean 
+
+TRACE::2024-06-07.16:26:39::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s clean 
+
+TRACE::2024-06-07.16:26:39::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s clean 
+
+TRACE::2024-06-07.16:26:39::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-06-07.16:27:36::SCWPlatform::Started generating the artifacts platform microblaze_system
+TRACE::2024-06-07.16:27:36::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-06-07.16:27:36::SCWPlatform::Started generating the artifacts for system configuration microblaze_system
+LOG::2024-06-07.16:27:36::SCWSystem::Checking the domain standalone_domain
+LOG::2024-06-07.16:27:36::SCWSystem::Not a boot domain 
+LOG::2024-06-07.16:27:36::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-06-07.16:27:36::SCWDomain::Generating domain artifcats
+TRACE::2024-06-07.16:27:36::SCWMssOS::Generating standalone artifcats
+TRACE::2024-06-07.16:27:36::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-06-07.16:27:36::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:36::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:36::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:36::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:27:36::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:27:36::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:27:36::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:27:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:27:36::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:36::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-06-07.16:27:36::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-06-07.16:27:36::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-06-07.16:27:36::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:36::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:36::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:36::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-07.16:27:36::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-07.16:27:36::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:36::SCWMssOS::Completed writing the mss file at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp
+TRACE::2024-06-07.16:27:36::SCWMssOS::Mss edits present, copying mssfile into export location E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:36::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-06-07.16:27:36::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-06-07.16:27:36::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-06-07.16:27:36::SCWMssOS::doing bsp build ... 
+TRACE::2024-06-07.16:27:36::SCWMssOS::System Command Ran  E: & cd  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-06-07.16:27:36::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-07.16:27:36::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-07.16:27:36::SCWMssOS::-Wextra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_7/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-07.16:27:36::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-07.16:27:36::SCWMssOS::-Wextra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_12/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-07.16:27:36::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-07.16:27:36::SCWMssOS::-Wextra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-06-07.16:27:36::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-06-07.16:27:36::SCWMssOS:: -Wextra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-06-07.16:27:36::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-06-07.16:27:36::SCWMssOS::-Wall -Wextra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_5/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-06-07.16:27:36::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-06-07.16:27:36::SCWMssOS::all -Wextra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-07.16:27:36::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-07.16:27:36::SCWMssOS::xtra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_7/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-07.16:27:36::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-07.16:27:36::SCWMssOS::xtra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_12/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-07.16:27:36::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-07.16:27:36::SCWMssOS::xtra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-06-07.16:27:36::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2024-06-07.16:27:36::SCWMssOS::extra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-06-07.16:27:36::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-06-07.16:27:36::SCWMssOS::ll -Wextra"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_5/src"
+
+TRACE::2024-06-07.16:27:36::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-06-07.16:27:36::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-06-07.16:27:36::SCWMssOS:: -Wextra"
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2024-06-07.16:27:37::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_testio.o microblaze_0/lib/microblaz
+TRACE::2024-06-07.16:27:37::SCWMssOS::e_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/
+TRACE::2024-06-07.16:27:37::SCWMssOS::lib/xbram_sinit.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0
+TRACE::2024-06-07.16:27:37::SCWMssOS::/lib/inbyte.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xbram_g.o mic
+TRACE::2024-06-07.16:27:37::SCWMssOS::roblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts
+TRACE::2024-06-07.16:27:37::SCWMssOS::.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache
+TRACE::2024-06-07.16:27:37::SCWMssOS::.o microblaze_0/lib/xgpio_g.o microblaze_0/lib/xil_mem.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/x
+TRACE::2024-06-07.16:27:37::SCWMssOS::bram_intr.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xuartl
+TRACE::2024-06-07.16:27:37::SCWMssOS::ite_g.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xintc_l.o microblaze_0/lib/outbyte.o microblaze_0/lib/xgpio_intr.o m
+TRACE::2024-06-07.16:27:37::SCWMssOS::icroblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microb
+TRACE::2024-06-07.16:27:37::SCWMssOS::laze_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xgpio_sinit.o micro
+TRACE::2024-06-07.16:27:37::SCWMssOS::blaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib
+TRACE::2024-06-07.16:27:37::SCWMssOS::/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/xio.o microblaze_0/lib/microblaze_e
+TRACE::2024-06-07.16:27:37::SCWMssOS::nable_dcache.o microblaze_0/lib/xbram.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/microblaze_init_
+TRACE::2024-06-07.16:27:37::SCWMssOS::dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/errno.o microblaze_0/lib/xuartlite_l.o microbla
+TRACE::2024-06-07.16:27:37::SCWMssOS::ze_0/lib/xintc_options.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/xintc_intr.o microblaze_0/li
+TRACE::2024-06-07.16:27:37::SCWMssOS::b/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xgpio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/microblaze_up
+TRACE::2024-06-07.16:27:37::SCWMssOS::date_icache.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/xil_clocking.o micr
+TRACE::2024-06-07.16:27:37::SCWMssOS::oblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xgpio_extra.o microblaze_0/lib/micro
+TRACE::2024-06-07.16:27:37::SCWMssOS::blaze_enable_icache.o microblaze_0/lib/xintc.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/microblaze_init_icache_range
+TRACE::2024-06-07.16:27:37::SCWMssOS::.o microblaze_0/lib/fcntl.o microblaze_0/lib/xgpio_selftest.o
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::Copying to export directory.
+TRACE::2024-06-07.16:27:37::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-06-07.16:27:37::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-06-07.16:27:37::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-06-07.16:27:37::SCWSystem::Completed Processing the sysconfig microblaze_system
+LOG::2024-06-07.16:27:37::SCWPlatform::Completed generating the artifacts for system configuration microblaze_system
+TRACE::2024-06-07.16:27:37::SCWPlatform::Started preparing the platform 
+TRACE::2024-06-07.16:27:37::SCWSystem::Writing the bif file for system config microblaze_system
+TRACE::2024-06-07.16:27:37::SCWSystem::dir created 
+TRACE::2024-06-07.16:27:37::SCWSystem::Writing the bif 
+TRACE::2024-06-07.16:27:37::SCWPlatform::Started writing the spfm file 
+TRACE::2024-06-07.16:27:37::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-06-07.16:27:37::SCWPlatform::Completed generating the platform
+TRACE::2024-06-07.16:27:37::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:37::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-07.16:27:37::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-07.16:27:37::SCWMssOS::Commit changes completed.
+TRACE::2024-06-07.16:27:37::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:27:37::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:27:37::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:27:37::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:27:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:27:37::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:37::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:37::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_system",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_system",
+	"platHandOff":	"E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/bbu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_system",
+	"systems":	[{
+			"systemName":	"microblaze_system",
+			"systemDesc":	"microblaze_system",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_system",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"123e5995b1f9544dec08e1c30439cbb0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-06-07.16:27:37::SCWPlatform::updated the xpfm file.
+TRACE::2024-06-07.16:27:37::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-07.16:27:37::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-07.16:27:37::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-07.16:27:37::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-07.16:27:37::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-07.16:27:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-07.16:27:37::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-07.16:27:37::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-07.16:27:37::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:03::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:03::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:03::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:04::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-13.10:48:06::SCWPlatform::Opened new HwDB with name bbu_top
+TRACE::2024-06-13.10:48:06::SCWReader::Active system found as  microblaze_system
+TRACE::2024-06-13.10:48:06::SCWReader::Handling sysconfig microblaze_system
+TRACE::2024-06-13.10:48:06::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:06::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-13.10:48:06::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-13.10:48:06::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-13.10:48:06::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-13.10:48:06::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-13.10:48:06::SCWMssOS::Commit changes completed.
+TRACE::2024-06-13.10:48:06::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-06-13.10:48:06::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-13.10:48:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:06::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:48:06::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:06::SCWReader::No isolation master present  
+TRACE::2024-06-13.10:48:13::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-13.10:48:13::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-13.10:48:13::SCWPlatform:: Platform location is E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa
+TRACE::2024-06-13.10:48:13::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-13.10:48:13::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:15::SCWMssOS::Doing hw sync for the mss in domain: standalone_domain
+TRACE::2024-06-13.10:48:15::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:15::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-13.10:48:15::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-13.10:48:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:15::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:15::SCWPlatform::Trying to set the existing hwdb with name bbu_top
+TRACE::2024-06-13.10:48:15::SCWPlatform::Opened existing hwdb bbu_top
+TRACE::2024-06-13.10:48:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:15::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:15::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:48:15::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:15::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/tempdsa/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:15::SCWPlatform::update - Opened existing hwdb bbu_top_0
+TRACE::2024-06-13.10:48:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:15::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:15::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-13.10:48:15::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-13.10:48:15::SCWMssOS::Commit changes completed.
+TRACE::2024-06-13.10:48:15::SCWMssOS::Completed hw sync for the mss in domain: standalone_domain
+TRACE::2024-06-13.10:48:15::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:15::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:15::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:15::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-13.10:48:16::SCWPlatform::Opened new HwDB with name bbu_top_1
+TRACE::2024-06-13.10:48:16::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:16::SCWMssOS::Adding the swdes entry, mss present, able to open swdb E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-13.10:48:16::SCWMssOS::Writing the mss file completed E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:16::SCWMssOS::Commit changes completed.
+TRACE::2024-06-13.10:48:16::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:16::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:16::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:16::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:48:16::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:48:16::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:48:16::SCWPlatform::Trying to set the existing hwdb with name bbu_top_1
+TRACE::2024-06-13.10:48:16::SCWPlatform::Opened existing hwdb bbu_top_1
+TRACE::2024-06-13.10:48:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:48:16::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:16::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:48:16::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:48:16::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_system",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_system",
+	"platHandOff":	"E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/bbu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_system",
+	"systems":	[{
+			"systemName":	"microblaze_system",
+			"systemDesc":	"microblaze_system",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_system",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"123e5995b1f9544dec08e1c30439cbb0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-06-13.10:49:03::SCWPlatform::Clearing the existing platform
+TRACE::2024-06-13.10:49:03::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-06-13.10:49:03::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:03::SCWSystem::Clearing the domains completed.
+TRACE::2024-06-13.10:49:03::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-06-13.10:49:03::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform:: Platform location is E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:03::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:03::SCWPlatform::Removing the HwDB with name E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:03::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:03::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-13.10:49:04::SCWPlatform::Opened new HwDB with name bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWReader::Active system found as  microblaze_system
+TRACE::2024-06-13.10:49:04::SCWReader::Handling sysconfig microblaze_system
+TRACE::2024-06-13.10:49:04::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:04::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-13.10:49:04::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-13.10:49:04::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-13.10:49:04::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-13.10:49:04::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-13.10:49:04::SCWMssOS::Commit changes completed.
+TRACE::2024-06-13.10:49:04::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-06-13.10:49:04::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:04::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:04::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:49:04::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:04::SCWReader::No isolation master present  
+TRACE::2024-06-13.10:49:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:06::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:06::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:49:06::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::In reload Mss file.
+TRACE::2024-06-13.10:49:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:06::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:06::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-06-13.10:49:06::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-06-13.10:49:06::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-06-13.10:49:06::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-06-13.10:49:06::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-13.10:49:06::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-13.10:49:06::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-13.10:49:06::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-13.10:49:06::SCWMssOS::Commit changes completed.
+TRACE::2024-06-13.10:49:06::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:06::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:06::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:06::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:06::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:49:06::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:06::SCWMssOS::Removing the swdes entry for  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:12::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:12::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:12::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:12::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:12::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:12::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:12::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:12::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:12::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:12::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-13.10:49:12::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:12::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:12::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:12::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-13.10:49:12::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-13.10:49:12::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:12::SCWMssOS::Completed writing the mss file at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp
+TRACE::2024-06-13.10:49:12::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-06-13.10:49:21::SCWMssOS::cleaning the bsp 
+TRACE::2024-06-13.10:49:21::SCWMssOS::System Command Ran  E: & cd  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp & make clean 
+TRACE::2024-06-13.10:49:22::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s clean 
+
+TRACE::2024-06-13.10:49:22::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s clean 
+
+TRACE::2024-06-13.10:49:22::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s clean 
+
+TRACE::2024-06-13.10:49:22::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s clean 
+
+TRACE::2024-06-13.10:49:22::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s clean 
+
+TRACE::2024-06-13.10:49:22::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s clean 
+
+TRACE::2024-06-13.10:49:22::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-06-13.10:49:31::SCWPlatform::Started generating the artifacts platform microblaze_system
+TRACE::2024-06-13.10:49:31::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-06-13.10:49:31::SCWPlatform::Started generating the artifacts for system configuration microblaze_system
+LOG::2024-06-13.10:49:31::SCWSystem::Checking the domain standalone_domain
+LOG::2024-06-13.10:49:31::SCWSystem::Not a boot domain 
+LOG::2024-06-13.10:49:31::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-06-13.10:49:31::SCWDomain::Generating domain artifcats
+TRACE::2024-06-13.10:49:31::SCWMssOS::Generating standalone artifcats
+TRACE::2024-06-13.10:49:31::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-06-13.10:49:31::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:31::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:31::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:31::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:31::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:31::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:31::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:31::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:31::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:31::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-06-13.10:49:31::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-06-13.10:49:31::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-06-13.10:49:31::SCWMssOS::No sw design opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:31::SCWMssOS::mss exists loading the mss file  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:31::SCWMssOS::Opened the sw design from mss  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:31::SCWMssOS::Adding the swdes entry E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-13.10:49:31::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-13.10:49:31::SCWMssOS::Opened the sw design.  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:31::SCWMssOS::Completed writing the mss file at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp
+TRACE::2024-06-13.10:49:31::SCWMssOS::Mss edits present, copying mssfile into export location E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:31::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-06-13.10:49:31::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-06-13.10:49:31::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-06-13.10:49:31::SCWMssOS::doing bsp build ... 
+TRACE::2024-06-13.10:49:31::SCWMssOS::System Command Ran  E: & cd  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-06-13.10:49:31::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-13.10:49:31::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-13.10:49:31::SCWMssOS::-Wextra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_7/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-13.10:49:31::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-13.10:49:31::SCWMssOS::-Wextra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_12/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-06-13.10:49:31::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-06-13.10:49:31::SCWMssOS::-Wextra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-06-13.10:49:31::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-06-13.10:49:31::SCWMssOS:: -Wextra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_5/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-06-13.10:49:31::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-06-13.10:49:31::SCWMssOS::-Wall -Wextra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-06-13.10:49:31::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-06-13.10:49:31::SCWMssOS::all -Wextra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-13.10:49:31::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-13.10:49:31::SCWMssOS::xtra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_7/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-13.10:49:31::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-13.10:49:31::SCWMssOS::xtra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_12/src"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-06-13.10:49:31::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-06-13.10:49:31::SCWMssOS::xtra"
+
+TRACE::2024-06-13.10:49:31::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-06-13.10:49:31::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2024-06-13.10:49:31::SCWMssOS::extra"
+
+TRACE::2024-06-13.10:49:32::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2024-06-13.10:49:32::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_5/src"
+
+TRACE::2024-06-13.10:49:32::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-06-13.10:49:32::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-06-13.10:49:32::SCWMssOS::ll -Wextra"
+
+TRACE::2024-06-13.10:49:32::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-06-13.10:49:32::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-06-13.10:49:32::SCWMssOS:: -Wextra"
+
+TRACE::2024-06-13.10:49:32::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-06-13.10:49:33::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-06-13.10:49:33::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-06-13.10:49:33::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2024-06-13.10:49:33::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_testio.o microblaze_0/lib/microblaz
+TRACE::2024-06-13.10:49:33::SCWMssOS::e_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/
+TRACE::2024-06-13.10:49:33::SCWMssOS::lib/xbram_sinit.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0
+TRACE::2024-06-13.10:49:33::SCWMssOS::/lib/inbyte.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xbram_g.o mic
+TRACE::2024-06-13.10:49:33::SCWMssOS::roblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts
+TRACE::2024-06-13.10:49:33::SCWMssOS::.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache
+TRACE::2024-06-13.10:49:33::SCWMssOS::.o microblaze_0/lib/xgpio_g.o microblaze_0/lib/xil_mem.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/x
+TRACE::2024-06-13.10:49:33::SCWMssOS::bram_intr.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xuartl
+TRACE::2024-06-13.10:49:33::SCWMssOS::ite_g.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xintc_l.o microblaze_0/lib/outbyte.o microblaze_0/lib/xgpio_intr.o m
+TRACE::2024-06-13.10:49:33::SCWMssOS::icroblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microb
+TRACE::2024-06-13.10:49:33::SCWMssOS::laze_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xgpio_sinit.o micro
+TRACE::2024-06-13.10:49:33::SCWMssOS::blaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib
+TRACE::2024-06-13.10:49:33::SCWMssOS::/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/xio.o microblaze_0/lib/microblaze_e
+TRACE::2024-06-13.10:49:33::SCWMssOS::nable_dcache.o microblaze_0/lib/xbram.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/microblaze_init_
+TRACE::2024-06-13.10:49:33::SCWMssOS::dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/errno.o microblaze_0/lib/xuartlite_l.o microbla
+TRACE::2024-06-13.10:49:33::SCWMssOS::ze_0/lib/xintc_options.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/xintc_intr.o microblaze_0/li
+TRACE::2024-06-13.10:49:33::SCWMssOS::b/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xgpio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/microblaze_up
+TRACE::2024-06-13.10:49:33::SCWMssOS::date_icache.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/xil_clocking.o micr
+TRACE::2024-06-13.10:49:33::SCWMssOS::oblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xgpio_extra.o microblaze_0/lib/micro
+TRACE::2024-06-13.10:49:33::SCWMssOS::blaze_enable_icache.o microblaze_0/lib/xintc.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/microblaze_init_icache_range
+TRACE::2024-06-13.10:49:33::SCWMssOS::.o microblaze_0/lib/fcntl.o microblaze_0/lib/xgpio_selftest.o
+
+TRACE::2024-06-13.10:49:33::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-06-13.10:49:33::SCWMssOS::Copying to export directory.
+TRACE::2024-06-13.10:49:34::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-06-13.10:49:34::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-06-13.10:49:34::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-06-13.10:49:34::SCWSystem::Completed Processing the sysconfig microblaze_system
+LOG::2024-06-13.10:49:34::SCWPlatform::Completed generating the artifacts for system configuration microblaze_system
+TRACE::2024-06-13.10:49:34::SCWPlatform::Started preparing the platform 
+TRACE::2024-06-13.10:49:34::SCWSystem::Writing the bif file for system config microblaze_system
+TRACE::2024-06-13.10:49:34::SCWSystem::dir created 
+TRACE::2024-06-13.10:49:34::SCWSystem::Writing the bif 
+TRACE::2024-06-13.10:49:34::SCWPlatform::Started writing the spfm file 
+TRACE::2024-06-13.10:49:34::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-06-13.10:49:34::SCWPlatform::Completed generating the platform
+TRACE::2024-06-13.10:49:34::SCWMssOS::Saving the mss changes E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:34::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-13.10:49:34::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-13.10:49:34::SCWMssOS::Commit changes completed.
+TRACE::2024-06-13.10:49:34::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:34::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:34::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:34::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:34::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:34::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:49:34::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:34::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_system",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_system",
+	"platHandOff":	"E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/bbu_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_system",
+	"systems":	[{
+			"systemName":	"microblaze_system",
+			"systemDesc":	"microblaze_system",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_system",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"123e5995b1f9544dec08e1c30439cbb0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-06-13.10:49:34::SCWPlatform::updated the xpfm file.
+TRACE::2024-06-13.10:49:34::SCWPlatform::Trying to open the hw design at E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform::DSA given E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform::DSA absoulate path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform::DSA directory E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw
+TRACE::2024-06-13.10:49:34::SCWPlatform:: Platform Path E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa
+TRACE::2024-06-13.10:49:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-06-13.10:49:34::SCWPlatform::Trying to set the existing hwdb with name bbu_top_2
+TRACE::2024-06-13.10:49:34::SCWPlatform::Opened existing hwdb bbu_top_2
+TRACE::2024-06-13.10:49:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-13.10:49:34::SCWMssOS::Checking the sw design at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-13.10:49:34::SCWMssOS::DEBUG:  swdes dump  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-13.10:49:34::SCWMssOS::Sw design exists and opened at  E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss

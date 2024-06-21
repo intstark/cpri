@@ -46,3 +46,21 @@ platform generate
 platform active {microblaze_system}
 platform generate -domains 
 platform generate
+platform active {microblaze_system}
+platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}
+bsp reload
+catch {bsp regenerate}
+platform clean
+platform generate
+platform active {microblaze_system}
+platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}
+bsp reload
+catch {bsp regenerate}
+platform clean
+platform generate
+platform active {microblaze_system}
+platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}
+bsp reload
+catch {bsp regenerate}
+platform clean
+platform generate

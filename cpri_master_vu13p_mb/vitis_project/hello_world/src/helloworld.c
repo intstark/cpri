@@ -50,6 +50,11 @@
 #include "xil_printf.h"
 #include "xparameters.h"
 #include "xil_io.h"
+#include "xgpio.h"
+#include "xintc.h"
+#include "sleep.h"
+
+
 
 /************************** Function Declaration ******************************/
 u32 check_link_status(int lane );
@@ -60,7 +65,9 @@ float  cpri_master_delay_calc(u32 data[4]);
 
 /************************** Function Definition ******************************/
 
-
+XGpio	Gpio;
+XIntc	Intc;
+int		gpio_intr_flag;
 
 /*****************************************************************************/
 /**
@@ -184,7 +191,7 @@ float  cpri_master_delay_calc(u32 data[4]){
     float delay_vec_ui[5];
 
 
-    // get indivisual part of delay
+    // get individual part of delay
     u32 r21_coarse = data[1] & 0x3FFFF;
     u32 cdc_fifo_delay = (data[1] & 0xFFFC0000) >> 18;
 
@@ -222,6 +229,28 @@ float  cpri_master_delay_calc(u32 data[4]){
 
 
 
+/*****************************************************************************/
+/**
+*
+* @brief    GpioHandler Interrupt
+*
+*
+* @return	None.
+*
+******************************************************************************/
+void GpioHandler(void *CallbackRef){
+	XGpio *GpioPtr = (XGpio *)CallbackRef;
+	print("GPIO interrupt\n\r");
+
+	gpio_intr_flag = 1;
+
+	XGpio_InterruptDisable(GpioPtr, 1);  //关闭中断
+	XGpio_InterruptClear(GpioPtr, 1);    //清除中断
+	XGpio_InterruptEnable(GpioPtr, 1);   //使能中断
+}
+
+
+
 
 /*****************************************************************************/
 /**
@@ -251,6 +280,7 @@ int main()
     // LANE 0
     //--------------------------------------------------------------------------
     int lane = 0;
+    float master_delay;
 
     // Lane status check
     u32 link_status = check_link_status(lane);
@@ -273,10 +303,55 @@ int main()
         u32 *data = ReadDelayReg(lane);
         xil_printf("%x %x %x %x\n\r", data[0], data[1], data[2], data[3]);
 
-        float master_delay = cpri_master_delay_calc(data);
+        master_delay = cpri_master_delay_calc(data);
     }
 
 
+    //GPIO初始化
+    XGpio_Initialize(&Gpio, XPAR_AXI_GPIO_0_DEVICE_ID);
+    XGpio_SetDataDirection(&Gpio, 1, 0xffffffff);
+
+    //初始化中断控制器
+    XIntc_Initialize(&Intc, XPAR_AXI_INTC_0_DEVICE_ID);
+
+    //关联中断ID和中断服务函数
+    XIntc_Connect(&Intc,XPAR_INTC_0_GPIO_0_VEC_ID,(Xil_ExceptionHandler)GpioHandler,&Gpio );
+
+
+    //使能GPIO中断
+    XGpio_InterruptEnable(&Gpio, 1);
+
+    //使能GPIO全局中断
+    XGpio_InterruptGlobalEnable(&Gpio);
+
+    //启用外设对应的中断向量
+    XIntc_Enable(&Intc,XPAR_INTC_0_GPIO_0_VEC_ID);
+
+    //启动中断控制器
+    XIntc_Start(&Intc, XIN_REAL_MODE);
+
+	//设置并打开中断异常处理
+	Xil_ExceptionInit();
+	Xil_ExceptionRegisterHandler(XIL_EXCEPTION_ID_INT, (Xil_ExceptionHandler)XIntc_InterruptHandler, &Intc);
+	Xil_ExceptionEnable();
+
+	u32 slave_delay;
+	u32 cable_delay;
+	while(1){
+		if(gpio_intr_flag){
+			slave_delay = Xil_In32((u32)(XPAR_AXI_BRAM_CTRL_0_S_AXI_BASEADDR+0x0001));
+			xil_printf("slave_delay=%x\n\r", slave_delay);
+
+			cable_delay = (u32)master_delay - slave_delay;
+			xil_printf("cable_delay=%x\n\r", cable_delay);
+
+			XGpio_SetDataDirection(&Gpio, 1, 0x00000000);
+			XGpio_DiscreteWrite(&Gpio, 1, (u32)(cable_delay));
+			XGpio_SetDataDirection(&Gpio, 1, 0xffffffff);
+
+			gpio_intr_flag = 0;
+		}
+	}
 
     cleanup_platform();
     return 0;

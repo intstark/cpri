@@ -6742,3 +6742,2697 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 "ip_type": "PERIPHERAL",
 },
 }]. Thread: Worker-3: Build Project
+!SESSION 2024-06-07 09:01:13.502 -----------------------------------------------
+eclipse.buildId=2020.2
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2024-06-07 09:01:20.793
+!MESSAGE Plug-in 'org.eclipse.ui.editors' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.ui.edit.text.gotoLastEditPosition
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:24.644
+!MESSAGE XSCT Command: [set sdk::sdk_chan tcfchan#0], Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:24.644
+!MESSAGE XSCT Command: [plnx-install-path  ; ::scw::scw_mode gui], Thread: Thread-9
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:24.660
+!MESSAGE XSCT command with result: [set sdk::sdk_chan tcfchan#0], Result: [null, tcfchan#0]. Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:24.674
+!MESSAGE XSCT command with result: [plnx-install-path  ; ::scw::scw_mode gui], Result: [null, ]. Thread: Thread-9
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:24.674
+!MESSAGE XSCT Command: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:24.675
+!MESSAGE XSCT command with result: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Result: [null, ]. Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:27.719
+!MESSAGE XSCT Command: [::hsi::utils::init_repo], Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:28.228
+!MESSAGE XSCT command with result: [::hsi::utils::init_repo], Result: [null, ]. Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:28.240
+!MESSAGE XSCT Command: [set query_var1 $::env(RDI_DATADIR)], Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:01:28.241
+!MESSAGE XSCT command with result: [set query_var1 $::env(RDI_DATADIR)], Result: [null, D:/Xilinx/Vitis/2020.2/data]. Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:08.973
+!MESSAGE XSCT Command: [platform read {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/platform.spr}], Thread: Worker-5: Reading platform
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 09:02:09.879
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 09:02:09.879
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 09:02:09.880
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:11.801
+!MESSAGE XSCT command with result: [platform read {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/platform.spr}], Result: [null, ]. Thread: Worker-5: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:11.818
+!MESSAGE XSCT Command: [platform active {microblaze_system}], Thread: Worker-5: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:11.819
+!MESSAGE XSCT command with result: [platform active {microblaze_system}], Result: [null, ]. Thread: Worker-5: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:19.889
+!MESSAGE XSCT Command: [platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}], Thread: Worker-3: Updating hardware platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:22.003
+!MESSAGE XSCT command with result: [platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}], Result: [null, ]. Thread: Worker-3: Updating hardware platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:29.669
+!MESSAGE XSCT Command: [platform read {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\platform.spr}], Thread: Worker-3: Initializing the platform to enable editing
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:29.673
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: Worker-0: Initializing hardware specification UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:30.787
+!MESSAGE XSCT command with result: [platform read {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\platform.spr}], Result: [null, ]. Thread: Worker-3: Initializing the platform to enable editing
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:30.787
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-0: Initializing hardware specification UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.593
+!MESSAGE XSCT Command: [::scw::get_hw_path], Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.594
+!MESSAGE XSCT command with result: [::scw::get_hw_path], Result: [null, E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa]. Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.594
+!MESSAGE XSCT Command: [::scw::regenerate_psinit E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.595
+!MESSAGE XSCT command with result: [::scw::regenerate_psinit E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.595
+!MESSAGE XSCT Command: [::scw::get_mss_path], Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.622
+!MESSAGE XSCT command with result: [::scw::get_mss_path], Result: [null, E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss]. Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.627
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss ], Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.629
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss ], Result: [null, ]. Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.629
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.637
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-2: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.649
+!MESSAGE XSCT Command: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.656
+!MESSAGE XSCT command with result: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, {"microblaze_0": {"freertos10_xilinx_v1_7": {"name": "freertos10_xilinx",
+"version": "1.7",
+"desc": "This Xilinx FreeRTOS port is based on FreeRTOS kernel version 10.3.0",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/ThirdParty/bsp/freertos10_xilinx_v1_7",
+},
+"standalone_v7_3": {"name": "standalone",
+"version": "7.3",
+"desc": "Standalone is a simple, low-level software layer. It provides access to basic processor features such as caches, interrupts and exceptions as well as the basic features of a hosted environment, such as standard input and output, profiling, abort and exit.",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/lib/bsp/standalone_v7_3",
+},
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.695
+!MESSAGE XSCT Command: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa microblaze_0], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.697
+!MESSAGE XSCT command with result: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa microblaze_0], Result: [null, axi_bram_ctrl_0 axi_gpio_0 mdm_1 microblaze_0_local_memory_dlmb_bram_if_cntlr microblaze_0_local_memory_ilmb_bram_if_cntlr]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.698
+!MESSAGE XSCT Command: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.715
+!MESSAGE XSCT command with result: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {"mdm_1": {"name": "uartlite",
+"ver": "3.5",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"axi_bram_ctrl_0": {"name": "bram",
+"ver": "4.5",
+},
+"axi_gpio_0": {"name": "gpio",
+"ver": "4.7",
+},
+"microblaze_0": {"name": "cpu",
+"ver": "2.12",
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.716
+!MESSAGE XSCT Command: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.754
+!MESSAGE XSCT command with result: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_crossbar_0": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"axi_gpio_0": {"version": "2.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"gpio_v4_7": {"name": "gpio",
+"version": "4.7",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_7",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"blk_mem_gen_0": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"jtag_axi_0": {"version": "1.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"mdm_1": {"version": "3.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"uartlite_v3_5": {"name": "uartlite",
+"version": "3.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0": {"version": "11.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"cpu_v2_12": {"name": "cpu",
+"version": "2.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/cpu_v2_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_axi_periph": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_lmb_bram": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"rst_Clk_100M": {"version": "5.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.772
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.773
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.774
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.792
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.807
+!MESSAGE XSCT Command: [bsp reload], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:32.820
+!MESSAGE XSCT command with result: [bsp reload], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:38.681
+!MESSAGE XSCT Command: [bsp regenerate], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:02:39.545
+!MESSAGE XSCT command with result: [bsp regenerate], Result: [null, ]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:13.529
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.547
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.548
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.550
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.550
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.560
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:03:14.561
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.567
+!MESSAGE XSCT Command: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.573
+!MESSAGE XSCT command with result: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"microblaze_0": {"freertos10_xilinx_v1_7": {"name": "freertos10_xilinx",
+"version": "1.7",
+"desc": "This Xilinx FreeRTOS port is based on FreeRTOS kernel version 10.3.0",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/ThirdParty/bsp/freertos10_xilinx_v1_7",
+},
+"standalone_v7_3": {"name": "standalone",
+"version": "7.3",
+"desc": "Standalone is a simple, low-level software layer. It provides access to basic processor features such as caches, interrupts and exceptions as well as the basic features of a hosted environment, such as standard input and output, profiling, abort and exit.",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/lib/bsp/standalone_v7_3",
+},
+},
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.574
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.591
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.592
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.594
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.594
+!MESSAGE XSCT Command: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa microblaze_0], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.595
+!MESSAGE XSCT command with result: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa microblaze_0], Result: [null, axi_bram_ctrl_0 axi_gpio_0 mdm_1 microblaze_0_local_memory_dlmb_bram_if_cntlr microblaze_0_local_memory_ilmb_bram_if_cntlr]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.596
+!MESSAGE XSCT Command: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.609
+!MESSAGE XSCT command with result: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"mdm_1": {"name": "uartlite",
+"ver": "3.5",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"axi_bram_ctrl_0": {"name": "bram",
+"ver": "4.5",
+},
+"axi_gpio_0": {"name": "gpio",
+"ver": "4.7",
+},
+"microblaze_0": {"name": "cpu",
+"ver": "2.12",
+},
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.609
+!MESSAGE XSCT Command: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.648
+!MESSAGE XSCT command with result: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_crossbar_0": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"axi_gpio_0": {"version": "2.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"gpio_v4_7": {"name": "gpio",
+"version": "4.7",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_7",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"blk_mem_gen_0": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"jtag_axi_0": {"version": "1.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"mdm_1": {"version": "3.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"uartlite_v3_5": {"name": "uartlite",
+"version": "3.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0": {"version": "11.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"cpu_v2_12": {"name": "cpu",
+"version": "2.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/cpu_v2_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_axi_periph": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_lmb_bram": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"rst_Clk_100M": {"version": "5.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.649
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.651
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.651
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.667
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.747
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:14.749
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:16.388
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:16.390
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:16.392
+!MESSAGE XSCT Command: [hsi::internal::extract_hw_files -quiet bit mmi bmm -dir {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream}], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:17.375
+!MESSAGE XSCT command with result: [hsi::internal::extract_hw_files -quiet bit mmi bmm -dir {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream}], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:17.377
+!MESSAGE XSCT Command: [::hsi::utils::get_design_properties -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:17.378
+!MESSAGE XSCT command with result: [::hsi::utils::get_design_properties -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"device": "xcvu13p",
+"family": "virtexuplus",
+"timestamp": "Thu Jun  6 19:31:19 2024",
+"vivado_version": "2020.2",
+"part": "xcvu13p-fhgb2104-1-i",
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:17.379
+!MESSAGE XSCT Command: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:17.389
+!MESSAGE XSCT command with result: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"hier_name": "axi_bram_ctrl_0",
+"type": "axi_bram_ctrl",
+"version": "4.1",
+"ip_type": "MEMORY_CNTLR",
+},
+"axi_crossbar_0": {"hier_name": "axi_crossbar_0",
+"type": "axi_crossbar",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"axi_gpio_0": {"hier_name": "axi_gpio_0",
+"type": "axi_gpio",
+"version": "2.0",
+"ip_type": "PERIPHERAL",
+},
+"blk_mem_gen_0": {"hier_name": "blk_mem_gen_0",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"jtag_axi_0": {"hier_name": "jtag_axi_0",
+"type": "jtag_axi",
+"version": "1.2",
+"ip_type": "PERIPHERAL",
+},
+"mdm_1": {"hier_name": "mdm_1",
+"type": "mdm",
+"version": "3.2",
+"ip_type": "DEBUG",
+},
+"microblaze_0": {"hier_name": "microblaze_0",
+"type": "microblaze",
+"version": "11.0",
+"ip_type": "PROCESSOR",
+},
+"microblaze_0_axi_periph": {"hier_name": "microblaze_0_axi_periph",
+"type": "axi_interconnect",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_dlmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_dlmb_v10": {"hier_name": "microblaze_0_local_memory_dlmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_ilmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_ilmb_v10": {"hier_name": "microblaze_0_local_memory_ilmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_lmb_bram": {"hier_name": "microblaze_0_local_memory_lmb_bram",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"rst_Clk_100M": {"hier_name": "rst_Clk_100M",
+"type": "proc_sys_reset",
+"version": "5.0",
+"ip_type": "PERIPHERAL",
+},
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:22.711
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:22.713
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:22.714
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:22.724
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:03:22.725
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:22.726
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:22.728
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:38.357
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-4: Building Workspace
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:38.359
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-4: Building Workspace
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:38.360
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-4: Building Workspace
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:38.362
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-4: Building Workspace
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:03:38.362
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:38.363
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-4: Building Workspace
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:03:38.364
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-4: Building Workspace
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:04:31.438
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:04:31.441
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:04:31.442
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:04:31.444
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:04:31.444
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:04:31.445
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:04:31.446
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:45:55.561
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-17: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:45:55.564
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-17: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:45:55.564
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-17: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:45:55.581
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-17: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:45:55.581
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:45:55.582
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-17: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:45:55.583
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-17: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:46:16.562
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:46:16.565
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:46:16.565
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:46:16.567
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:46:16.567
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:46:16.568
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:46:16.569
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:48:56.660
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:48:56.662
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:48:56.663
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:48:56.669
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:48:56.670
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:48:56.670
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:48:56.672
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:05.576
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-15: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:05.579
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-15: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:05.580
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-15: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:05.581
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-15: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:49:05.582
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:05.583
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-15: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:05.584
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-15: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:16.544
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:16.546
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:16.546
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:16.564
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:49:16.564
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:16.565
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:49:16.566
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:52:48.664
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:52:48.666
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:52:48.666
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:52:48.668
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 09:52:48.669
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:52:48.669
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-10: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 09:52:48.671
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-10: Build Project
+!SESSION 2024-06-07 10:39:37.501 -----------------------------------------------
+eclipse.buildId=2020.2
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2024-06-07 10:42:53.303
+!MESSAGE Plug-in 'org.eclipse.ui.editors' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.ui.edit.text.gotoLastEditPosition
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:56.805
+!MESSAGE XSCT Command: [plnx-install-path  ; ::scw::scw_mode gui], Thread: Thread-10
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:56.805
+!MESSAGE XSCT Command: [set sdk::sdk_chan tcfchan#0], Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:56.820
+!MESSAGE XSCT command with result: [plnx-install-path  ; ::scw::scw_mode gui], Result: [null, ]. Thread: Thread-10
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:56.834
+!MESSAGE XSCT command with result: [set sdk::sdk_chan tcfchan#0], Result: [null, tcfchan#0]. Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:56.835
+!MESSAGE XSCT Command: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:56.836
+!MESSAGE XSCT command with result: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Result: [null, ]. Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:59.638
+!MESSAGE XSCT Command: [::hsi::utils::init_repo], Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:59.792
+!MESSAGE XSCT command with result: [::hsi::utils::init_repo], Result: [null, ]. Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:59.793
+!MESSAGE XSCT Command: [set query_var1 $::env(RDI_DATADIR)], Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:42:59.794
+!MESSAGE XSCT command with result: [set query_var1 $::env(RDI_DATADIR)], Result: [null, D:/Xilinx/Vitis/2020.2/data]. Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 10:48:18.331
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 10:48:18.331
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 10:48:18.331
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.562
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.650
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.655
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.658
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.658
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.661
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 10:48:21.662
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.666
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:21.668
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:22.475
+!MESSAGE XSCT Command: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-7: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 10:48:22.479
+!MESSAGE XSCT command with result: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"hier_name": "axi_bram_ctrl_0",
+"type": "axi_bram_ctrl",
+"version": "4.1",
+"ip_type": "MEMORY_CNTLR",
+},
+"axi_crossbar_0": {"hier_name": "axi_crossbar_0",
+"type": "axi_crossbar",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"axi_gpio_0": {"hier_name": "axi_gpio_0",
+"type": "axi_gpio",
+"version": "2.0",
+"ip_type": "PERIPHERAL",
+},
+"blk_mem_gen_0": {"hier_name": "blk_mem_gen_0",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"jtag_axi_0": {"hier_name": "jtag_axi_0",
+"type": "jtag_axi",
+"version": "1.2",
+"ip_type": "PERIPHERAL",
+},
+"mdm_1": {"hier_name": "mdm_1",
+"type": "mdm",
+"version": "3.2",
+"ip_type": "DEBUG",
+},
+"microblaze_0": {"hier_name": "microblaze_0",
+"type": "microblaze",
+"version": "11.0",
+"ip_type": "PROCESSOR",
+},
+"microblaze_0_axi_periph": {"hier_name": "microblaze_0_axi_periph",
+"type": "axi_interconnect",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_dlmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_dlmb_v10": {"hier_name": "microblaze_0_local_memory_dlmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_ilmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_ilmb_v10": {"hier_name": "microblaze_0_local_memory_ilmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_lmb_bram": {"hier_name": "microblaze_0_local_memory_lmb_bram",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"rst_Clk_100M": {"hier_name": "rst_Clk_100M",
+"type": "proc_sys_reset",
+"version": "5.0",
+"ip_type": "PERIPHERAL",
+},
+}]. Thread: Worker-7: Build Project
+!SESSION 2024-06-07 16:22:39.311 -----------------------------------------------
+eclipse.buildId=2020.2
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2024-06-07 16:25:03.747
+!MESSAGE Plug-in 'org.eclipse.ui.editors' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.ui.edit.text.gotoLastEditPosition
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:08.494
+!MESSAGE XSCT Command: [set sdk::sdk_chan tcfchan#0], Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:08.494
+!MESSAGE XSCT Command: [plnx-install-path  ; ::scw::scw_mode gui], Thread: Thread-10
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:08.507
+!MESSAGE XSCT command with result: [set sdk::sdk_chan tcfchan#0], Result: [null, tcfchan#0]. Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:08.520
+!MESSAGE XSCT command with result: [plnx-install-path  ; ::scw::scw_mode gui], Result: [null, ]. Thread: Thread-10
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:08.520
+!MESSAGE XSCT Command: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:08.522
+!MESSAGE XSCT command with result: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Result: [null, ]. Thread: Thread-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:11.401
+!MESSAGE XSCT Command: [::hsi::utils::init_repo], Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:11.656
+!MESSAGE XSCT command with result: [::hsi::utils::init_repo], Result: [null, ]. Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:11.657
+!MESSAGE XSCT Command: [set query_var1 $::env(RDI_DATADIR)], Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:11.658
+!MESSAGE XSCT command with result: [set query_var1 $::env(RDI_DATADIR)], Result: [null, D:/Xilinx/Vitis/2020.2/data]. Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:51.090
+!MESSAGE XSCT Command: [platform read {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/platform.spr}], Thread: Worker-5: Reading platform
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 16:25:52.278
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 16:25:52.278
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 16:25:52.279
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:53.954
+!MESSAGE XSCT command with result: [platform read {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/platform.spr}], Result: [null, ]. Thread: Worker-5: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:53.972
+!MESSAGE XSCT Command: [platform active {microblaze_system}], Thread: Worker-5: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:25:53.973
+!MESSAGE XSCT command with result: [platform active {microblaze_system}], Result: [null, ]. Thread: Worker-5: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 16:25:56.271
+!MESSAGE Opening file dialog using preferences. Current path: null, Local preference: scw_hwspec_file_selection, Group preference: null
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 16:25:56.272
+!MESSAGE Preference loaded using local preference: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb20240604\vitis_project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 16:25:56.272
+!MESSAGE Workspace path used is: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:03.025
+!MESSAGE XSCT Command: [platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}], Thread: Worker-1: Updating hardware platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:05.559
+!MESSAGE XSCT command with result: [platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}], Result: [null, ]. Thread: Worker-1: Updating hardware platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:28.053
+!MESSAGE XSCT Command: [platform read {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\platform.spr}], Thread: Worker-4: Initializing the platform to enable editing
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:28.057
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: Worker-5: Initializing hardware specification UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:29.363
+!MESSAGE XSCT command with result: [platform read {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\platform.spr}], Result: [null, ]. Thread: Worker-4: Initializing the platform to enable editing
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:29.364
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-5: Initializing hardware specification UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.327
+!MESSAGE XSCT Command: [::scw::get_hw_path], Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.328
+!MESSAGE XSCT command with result: [::scw::get_hw_path], Result: [null, E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa]. Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.328
+!MESSAGE XSCT Command: [::scw::regenerate_psinit E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.329
+!MESSAGE XSCT command with result: [::scw::regenerate_psinit E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.329
+!MESSAGE XSCT Command: [::scw::get_mss_path], Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.342
+!MESSAGE XSCT command with result: [::scw::get_mss_path], Result: [null, E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss]. Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.348
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss ], Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.351
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss ], Result: [null, ]. Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.352
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.355
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-4: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.444
+!MESSAGE XSCT Command: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.451
+!MESSAGE XSCT command with result: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, {"microblaze_0": {"freertos10_xilinx_v1_7": {"name": "freertos10_xilinx",
+"version": "1.7",
+"desc": "This Xilinx FreeRTOS port is based on FreeRTOS kernel version 10.3.0",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/ThirdParty/bsp/freertos10_xilinx_v1_7",
+},
+"standalone_v7_3": {"name": "standalone",
+"version": "7.3",
+"desc": "Standalone is a simple, low-level software layer. It provides access to basic processor features such as caches, interrupts and exceptions as well as the basic features of a hosted environment, such as standard input and output, profiling, abort and exit.",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/lib/bsp/standalone_v7_3",
+},
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.514
+!MESSAGE XSCT Command: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa microblaze_0], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.516
+!MESSAGE XSCT command with result: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa microblaze_0], Result: [null, axi_bram_ctrl_0 axi_gpio_0 axi_intc_0 mdm_1 microblaze_0_local_memory_dlmb_bram_if_cntlr microblaze_0_local_memory_ilmb_bram_if_cntlr]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.517
+!MESSAGE XSCT Command: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.532
+!MESSAGE XSCT command with result: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {"mdm_1": {"name": "uartlite",
+"ver": "3.5",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"axi_bram_ctrl_0": {"name": "bram",
+"ver": "4.5",
+},
+"axi_gpio_0": {"name": "gpio",
+"ver": "4.7",
+},
+"axi_intc_0": {"name": "intc",
+"ver": "3.12",
+},
+"microblaze_0": {"name": "cpu",
+"ver": "2.12",
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.534
+!MESSAGE XSCT Command: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.576
+!MESSAGE XSCT command with result: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_crossbar_0": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"axi_gpio_0": {"version": "2.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"gpio_v4_7": {"name": "gpio",
+"version": "4.7",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_7",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_intc_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"intc_v3_12": {"name": "intc",
+"version": "3.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/intc_v3_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"blk_mem_gen_0": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"ila_0": {"version": "6.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"jtag_axi_0": {"version": "1.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"mdm_1": {"version": "3.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"uartlite_v3_5": {"name": "uartlite",
+"version": "3.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0": {"version": "11.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"cpu_v2_12": {"name": "cpu",
+"version": "2.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/cpu_v2_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_axi_periph": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_lmb_bram": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"rst_Clk_100M": {"version": "5.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.598
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.599
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.600
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.610
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.635
+!MESSAGE XSCT Command: [bsp reload], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:30.649
+!MESSAGE XSCT command with result: [bsp reload], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:32.810
+!MESSAGE XSCT Command: [bsp regenerate], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:26:33.495
+!MESSAGE XSCT command with result: [bsp regenerate], Result: [null, ]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:00.921
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.181
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.182
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.185
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.185
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.203
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 16:28:02.204
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.210
+!MESSAGE XSCT Command: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.216
+!MESSAGE XSCT command with result: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"microblaze_0": {"freertos10_xilinx_v1_7": {"name": "freertos10_xilinx",
+"version": "1.7",
+"desc": "This Xilinx FreeRTOS port is based on FreeRTOS kernel version 10.3.0",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/ThirdParty/bsp/freertos10_xilinx_v1_7",
+},
+"standalone_v7_3": {"name": "standalone",
+"version": "7.3",
+"desc": "Standalone is a simple, low-level software layer. It provides access to basic processor features such as caches, interrupts and exceptions as well as the basic features of a hosted environment, such as standard input and output, profiling, abort and exit.",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/lib/bsp/standalone_v7_3",
+},
+},
+}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.216
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.218
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.218
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.232
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.233
+!MESSAGE XSCT Command: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa microblaze_0], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.234
+!MESSAGE XSCT command with result: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa microblaze_0], Result: [null, axi_bram_ctrl_0 axi_gpio_0 axi_intc_0 mdm_1 microblaze_0_local_memory_dlmb_bram_if_cntlr microblaze_0_local_memory_ilmb_bram_if_cntlr]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.235
+!MESSAGE XSCT Command: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.238
+!MESSAGE XSCT command with result: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"mdm_1": {"name": "uartlite",
+"ver": "3.5",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"axi_bram_ctrl_0": {"name": "bram",
+"ver": "4.5",
+},
+"axi_gpio_0": {"name": "gpio",
+"ver": "4.7",
+},
+"axi_intc_0": {"name": "intc",
+"ver": "3.12",
+},
+"microblaze_0": {"name": "cpu",
+"ver": "2.12",
+},
+}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.238
+!MESSAGE XSCT Command: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.285
+!MESSAGE XSCT command with result: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_crossbar_0": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"axi_gpio_0": {"version": "2.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"gpio_v4_7": {"name": "gpio",
+"version": "4.7",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_7",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_intc_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"intc_v3_12": {"name": "intc",
+"version": "3.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/intc_v3_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"blk_mem_gen_0": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"ila_0": {"version": "6.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"jtag_axi_0": {"version": "1.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"mdm_1": {"version": "3.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"uartlite_v3_5": {"name": "uartlite",
+"version": "3.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0": {"version": "11.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"cpu_v2_12": {"name": "cpu",
+"version": "2.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/cpu_v2_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_axi_periph": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_lmb_bram": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"rst_Clk_100M": {"version": "5.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.286
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.288
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.288
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.293
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.376
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:02.378
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:03.291
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:03.293
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:03.296
+!MESSAGE XSCT Command: [hsi::internal::extract_hw_files -quiet bit mmi bmm -dir {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream}], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:04.257
+!MESSAGE XSCT command with result: [hsi::internal::extract_hw_files -quiet bit mmi bmm -dir {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream}], Result: [null, ]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:04.258
+!MESSAGE XSCT Command: [::hsi::utils::get_design_properties -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:04.260
+!MESSAGE XSCT command with result: [::hsi::utils::get_design_properties -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"device": "xcvu13p",
+"family": "virtexuplus",
+"timestamp": "Fri Jun  7 14:21:19 2024",
+"vivado_version": "2020.2",
+"part": "xcvu13p-fhgb2104-1-i",
+}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:04.261
+!MESSAGE XSCT Command: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:04.270
+!MESSAGE XSCT command with result: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"hier_name": "axi_bram_ctrl_0",
+"type": "axi_bram_ctrl",
+"version": "4.1",
+"ip_type": "MEMORY_CNTLR",
+},
+"axi_crossbar_0": {"hier_name": "axi_crossbar_0",
+"type": "axi_crossbar",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"axi_gpio_0": {"hier_name": "axi_gpio_0",
+"type": "axi_gpio",
+"version": "2.0",
+"ip_type": "PERIPHERAL",
+},
+"axi_intc_0": {"hier_name": "axi_intc_0",
+"type": "axi_intc",
+"version": "4.1",
+"ip_type": "INTERRUPT_CNTLR",
+},
+"blk_mem_gen_0": {"hier_name": "blk_mem_gen_0",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"ila_0": {"hier_name": "ila_0",
+"type": "ila",
+"version": "6.2",
+"ip_type": "PERIPHERAL",
+},
+"jtag_axi_0": {"hier_name": "jtag_axi_0",
+"type": "jtag_axi",
+"version": "1.2",
+"ip_type": "PERIPHERAL",
+},
+"mdm_1": {"hier_name": "mdm_1",
+"type": "mdm",
+"version": "3.2",
+"ip_type": "DEBUG",
+},
+"microblaze_0": {"hier_name": "microblaze_0",
+"type": "microblaze",
+"version": "11.0",
+"ip_type": "PROCESSOR",
+},
+"microblaze_0_axi_periph": {"hier_name": "microblaze_0_axi_periph",
+"type": "axi_interconnect",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_dlmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_dlmb_v10": {"hier_name": "microblaze_0_local_memory_dlmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_ilmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_ilmb_v10": {"hier_name": "microblaze_0_local_memory_ilmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_lmb_bram": {"hier_name": "microblaze_0_local_memory_lmb_bram",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"rst_Clk_100M": {"hier_name": "rst_Clk_100M",
+"type": "proc_sys_reset",
+"version": "5.0",
+"ip_type": "PERIPHERAL",
+},
+}]. Thread: Worker-5: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:12.713
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:12.716
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:12.717
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:12.719
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 16:28:12.720
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:12.721
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:28:12.734
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:50:54.176
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:50:54.179
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:50:54.180
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:50:54.182
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 16:50:54.183
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:50:54.184
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 16:50:54.186
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-18: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:14:57.773
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-27: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:14:57.776
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-27: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:14:57.777
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-27: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:14:57.779
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-27: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 17:14:57.779
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:14:57.780
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-27: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:14:57.782
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-27: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:15:47.311
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-21: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:15:47.313
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-21: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:15:47.314
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-21: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:15:47.331
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-21: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 17:15:47.332
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:15:47.332
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-21: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:15:47.334
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-21: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:16:07.383
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-23: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:16:07.386
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-23: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:16:07.386
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-23: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:16:07.392
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-23: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 17:16:07.393
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:16:07.393
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-23: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 17:16:07.395
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-23: Build Project
+!SESSION 2024-06-07 18:06:15.016 -----------------------------------------------
+eclipse.buildId=2020.2
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2024-06-07 18:06:21.979
+!MESSAGE Plug-in 'org.eclipse.ui.editors' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.ui.edit.text.gotoLastEditPosition
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:25.453
+!MESSAGE XSCT Command: [set sdk::sdk_chan tcfchan#0], Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:25.453
+!MESSAGE XSCT Command: [plnx-install-path  ; ::scw::scw_mode gui], Thread: Thread-9
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:25.482
+!MESSAGE XSCT command with result: [set sdk::sdk_chan tcfchan#0], Result: [null, tcfchan#0]. Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:25.483
+!MESSAGE XSCT command with result: [plnx-install-path  ; ::scw::scw_mode gui], Result: [null, ]. Thread: Thread-9
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:25.483
+!MESSAGE XSCT Command: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:25.485
+!MESSAGE XSCT command with result: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Result: [null, ]. Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:28.029
+!MESSAGE XSCT Command: [::hsi::utils::init_repo], Thread: Worker-0: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:28.172
+!MESSAGE XSCT command with result: [::hsi::utils::init_repo], Result: [null, ]. Thread: Worker-0: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:28.173
+!MESSAGE XSCT Command: [set query_var1 $::env(RDI_DATADIR)], Thread: Worker-0: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:06:28.174
+!MESSAGE XSCT command with result: [set query_var1 $::env(RDI_DATADIR)], Result: [null, D:/Xilinx/Vitis/2020.2/data]. Thread: Worker-0: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:23.858
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:24.180
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:24.184
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:24.187
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:24.187
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:24.190
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 18:07:24.191
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:24.195
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:24.197
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:25.111
+!MESSAGE XSCT Command: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-0: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:25.115
+!MESSAGE XSCT command with result: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"hier_name": "axi_bram_ctrl_0",
+"type": "axi_bram_ctrl",
+"version": "4.1",
+"ip_type": "MEMORY_CNTLR",
+},
+"axi_crossbar_0": {"hier_name": "axi_crossbar_0",
+"type": "axi_crossbar",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"axi_gpio_0": {"hier_name": "axi_gpio_0",
+"type": "axi_gpio",
+"version": "2.0",
+"ip_type": "PERIPHERAL",
+},
+"axi_intc_0": {"hier_name": "axi_intc_0",
+"type": "axi_intc",
+"version": "4.1",
+"ip_type": "INTERRUPT_CNTLR",
+},
+"blk_mem_gen_0": {"hier_name": "blk_mem_gen_0",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"ila_0": {"hier_name": "ila_0",
+"type": "ila",
+"version": "6.2",
+"ip_type": "PERIPHERAL",
+},
+"jtag_axi_0": {"hier_name": "jtag_axi_0",
+"type": "jtag_axi",
+"version": "1.2",
+"ip_type": "PERIPHERAL",
+},
+"mdm_1": {"hier_name": "mdm_1",
+"type": "mdm",
+"version": "3.2",
+"ip_type": "DEBUG",
+},
+"microblaze_0": {"hier_name": "microblaze_0",
+"type": "microblaze",
+"version": "11.0",
+"ip_type": "PROCESSOR",
+},
+"microblaze_0_axi_periph": {"hier_name": "microblaze_0_axi_periph",
+"type": "axi_interconnect",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_dlmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_dlmb_v10": {"hier_name": "microblaze_0_local_memory_dlmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_ilmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_ilmb_v10": {"hier_name": "microblaze_0_local_memory_ilmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_lmb_bram": {"hier_name": "microblaze_0_local_memory_lmb_bram",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"rst_Clk_100M": {"hier_name": "rst_Clk_100M",
+"type": "proc_sys_reset",
+"version": "5.0",
+"ip_type": "PERIPHERAL",
+},
+}]. Thread: Worker-0: Build Project
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 18:07:25.982
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 18:07:25.982
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-07 18:07:25.982
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:52.313
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:52.315
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:52.316
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:52.318
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 18:07:52.319
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:52.320
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:07:52.321
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:08:29.093
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:08:29.096
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:08:29.096
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:08:29.098
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-07 18:08:29.098
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:08:29.099
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-07 18:08:29.101
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-2: Build Project
+!SESSION 2024-06-13 10:47:33.670 -----------------------------------------------
+eclipse.buildId=2020.2
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2024-06-13 10:47:41.899
+!MESSAGE Plug-in 'org.eclipse.ui.editors' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.ui.edit.text.gotoLastEditPosition
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:45.547
+!MESSAGE XSCT Command: [plnx-install-path  ; ::scw::scw_mode gui], Thread: Thread-9
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:45.547
+!MESSAGE XSCT Command: [set sdk::sdk_chan tcfchan#0], Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:45.563
+!MESSAGE XSCT command with result: [plnx-install-path  ; ::scw::scw_mode gui], Result: [null, ]. Thread: Thread-9
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:45.576
+!MESSAGE XSCT command with result: [set sdk::sdk_chan tcfchan#0], Result: [null, tcfchan#0]. Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:45.576
+!MESSAGE XSCT Command: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:45.576
+!MESSAGE XSCT command with result: [setws E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project], Result: [null, ]. Thread: Thread-16
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:48.246
+!MESSAGE XSCT Command: [::hsi::utils::init_repo], Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:48.691
+!MESSAGE XSCT command with result: [::hsi::utils::init_repo], Result: [null, ]. Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:48.691
+!MESSAGE XSCT Command: [set query_var1 $::env(RDI_DATADIR)], Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:47:48.695
+!MESSAGE XSCT command with result: [set query_var1 $::env(RDI_DATADIR)], Result: [null, D:/Xilinx/Vitis/2020.2/data]. Thread: Worker-3: Initializing s/w repositories
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:48:02.995
+!MESSAGE XSCT Command: [platform read {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/platform.spr}], Thread: Worker-0: Reading platform
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-13 10:48:03.626
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-13 10:48:03.626
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-06-13 10:48:03.626
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:48:06.080
+!MESSAGE XSCT command with result: [platform read {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/platform.spr}], Result: [null, ]. Thread: Worker-0: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:48:06.100
+!MESSAGE XSCT Command: [platform active {microblaze_system}], Thread: Worker-0: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:48:06.100
+!MESSAGE XSCT command with result: [platform active {microblaze_system}], Result: [null, ]. Thread: Worker-0: Reading platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:48:13.907
+!MESSAGE XSCT Command: [platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}], Thread: Worker-4: Updating hardware platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:48:16.560
+!MESSAGE XSCT command with result: [platform config -updatehw {E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/bbu_top.xsa}], Result: [null, ]. Thread: Worker-4: Updating hardware platform
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:03.509
+!MESSAGE XSCT Command: [platform read {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\platform.spr}], Thread: Worker-3: Initializing the platform to enable editing
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:03.512
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: Worker-0: Initializing hardware specification UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:04.861
+!MESSAGE XSCT command with result: [platform read {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\platform.spr}], Result: [null, ]. Thread: Worker-3: Initializing the platform to enable editing
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:04.861
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-0: Initializing hardware specification UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.468
+!MESSAGE XSCT Command: [::scw::get_hw_path], Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.469
+!MESSAGE XSCT command with result: [::scw::get_hw_path], Result: [null, E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa]. Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.469
+!MESSAGE XSCT Command: [::scw::regenerate_psinit E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.469
+!MESSAGE XSCT command with result: [::scw::regenerate_psinit E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.469
+!MESSAGE XSCT Command: [::scw::get_mss_path], Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.485
+!MESSAGE XSCT command with result: [::scw::get_mss_path], Result: [null, E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss]. Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.489
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss ], Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.493
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss ], Result: [null, ]. Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.493
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.501
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-1: Initializing 'standalone_domain' bsp settings UI...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.577
+!MESSAGE XSCT Command: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.581
+!MESSAGE XSCT command with result: [hsi::utils::get_supported_os -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, {"microblaze_0": {"freertos10_xilinx_v1_7": {"name": "freertos10_xilinx",
+"version": "1.7",
+"desc": "This Xilinx FreeRTOS port is based on FreeRTOS kernel version 10.3.0",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/ThirdParty/bsp/freertos10_xilinx_v1_7",
+},
+"standalone_v7_3": {"name": "standalone",
+"version": "7.3",
+"desc": "Standalone is a simple, low-level software layer. It provides access to basic processor features such as caches, interrupts and exceptions as well as the basic features of a hosted environment, such as standard input and output, profiling, abort and exit.",
+"compilerflags": "",
+"linkerflags": "-Wl,--start-group,-lxil,-lgcc,-lc,--end-group",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/lib/bsp/standalone_v7_3",
+},
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.625
+!MESSAGE XSCT Command: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa microblaze_0], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.629
+!MESSAGE XSCT command with result: [::hsi::utils::get_connected_periphs E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa microblaze_0], Result: [null, axi_bram_ctrl_0 axi_gpio_0 axi_intc_0 mdm_1 microblaze_0_local_memory_dlmb_bram_if_cntlr microblaze_0_local_memory_ilmb_bram_if_cntlr]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.629
+!MESSAGE XSCT Command: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.633
+!MESSAGE XSCT command with result: [::hsi::utils::get_drivers_for_sw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {"mdm_1": {"name": "uartlite",
+"ver": "3.5",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"name": "bram",
+"ver": "4.5",
+},
+"axi_bram_ctrl_0": {"name": "bram",
+"ver": "4.5",
+},
+"axi_gpio_0": {"name": "gpio",
+"ver": "4.7",
+},
+"axi_intc_0": {"name": "intc",
+"ver": "3.12",
+},
+"microblaze_0": {"name": "cpu",
+"ver": "2.12",
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.633
+!MESSAGE XSCT Command: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.681
+!MESSAGE XSCT command with result: [hsi::utils::get_drivers_for_hw -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_crossbar_0": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"axi_gpio_0": {"version": "2.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"gpio_v4_7": {"name": "gpio",
+"version": "4.7",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_7",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"axi_intc_0": {"version": "4.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"intc_v3_12": {"name": "intc",
+"version": "3.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/intc_v3_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"blk_mem_gen_0": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"ila_0": {"version": "6.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"jtag_axi_0": {"version": "1.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"mdm_1": {"version": "3.2",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"uartlite_v3_5": {"name": "uartlite",
+"version": "3.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/uartlite_v3_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0": {"version": "11.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"cpu_v2_12": {"name": "cpu",
+"version": "2.12",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/cpu_v2_12",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_axi_periph": {"version": "2.1",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_dlmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"version": "4.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+"bram_v4_5": {"name": "bram",
+"version": "4.5",
+"repo": "D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/bram_v4_5",
+"compilerflags": "",
+"linkerflags": "",
+},
+},
+},
+"microblaze_0_local_memory_ilmb_v10": {"version": "3.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"microblaze_0_local_memory_lmb_bram": {"version": "8.4",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+"rst_Clk_100M": {"version": "5.0",
+"driver_info": {"generic": {"name": "generic",
+"version": "2.0 2.1",
+"repo": "{D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_0} {D:/Xilinx/Vitis/2020.2/data/embeddedsw/XilinxProcessorIPLib/drivers/generic_v2_1}",
+},
+},
+},
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.705
+!MESSAGE XSCT Command: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.709
+!MESSAGE XSCT command with result: [::hsi::utils::get_libs_from_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.709
+!MESSAGE XSCT Command: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.721
+!MESSAGE XSCT command with result: [::hsi::utils::get_sw_libs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/microblaze_0/standalone_domain/bsp/system.mss], Result: [null, {}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.739
+!MESSAGE XSCT Command: [bsp reload], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:06.757
+!MESSAGE XSCT command with result: [bsp reload], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:12.661
+!MESSAGE XSCT Command: [bsp regenerate], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:49:13.528
+!MESSAGE XSCT command with result: [bsp regenerate], Result: [null, ]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:01.677
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:02.960
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:02.960
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:02.960
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:02.980
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:02.984
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-13 10:50:02.984
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:02.988
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:03.004
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:04.624
+!MESSAGE XSCT Command: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:04.632
+!MESSAGE XSCT command with result: [::hsi::utils::openhw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:04.636
+!MESSAGE XSCT Command: [hsi::internal::extract_hw_files -quiet bit mmi bmm -dir {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream}], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:05.634
+!MESSAGE XSCT command with result: [hsi::internal::extract_hw_files -quiet bit mmi bmm -dir {E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream}], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:05.638
+!MESSAGE XSCT Command: [::hsi::utils::get_design_properties -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:05.638
+!MESSAGE XSCT command with result: [::hsi::utils::get_design_properties -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"device": "xcvu13p",
+"family": "virtexuplus",
+"timestamp": "Fri Jun  7 14:21:19 2024",
+"vivado_version": "2020.2",
+"part": "xcvu13p-fhgb2104-1-i",
+}]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:05.638
+!MESSAGE XSCT Command: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:05.658
+!MESSAGE XSCT command with result: [::hsi::utils::get_all_periphs -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa], Result: [null, {"axi_bram_ctrl_0": {"hier_name": "axi_bram_ctrl_0",
+"type": "axi_bram_ctrl",
+"version": "4.1",
+"ip_type": "MEMORY_CNTLR",
+},
+"axi_crossbar_0": {"hier_name": "axi_crossbar_0",
+"type": "axi_crossbar",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"axi_gpio_0": {"hier_name": "axi_gpio_0",
+"type": "axi_gpio",
+"version": "2.0",
+"ip_type": "PERIPHERAL",
+},
+"axi_intc_0": {"hier_name": "axi_intc_0",
+"type": "axi_intc",
+"version": "4.1",
+"ip_type": "INTERRUPT_CNTLR",
+},
+"blk_mem_gen_0": {"hier_name": "blk_mem_gen_0",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"ila_0": {"hier_name": "ila_0",
+"type": "ila",
+"version": "6.2",
+"ip_type": "PERIPHERAL",
+},
+"jtag_axi_0": {"hier_name": "jtag_axi_0",
+"type": "jtag_axi",
+"version": "1.2",
+"ip_type": "PERIPHERAL",
+},
+"mdm_1": {"hier_name": "mdm_1",
+"type": "mdm",
+"version": "3.2",
+"ip_type": "DEBUG",
+},
+"microblaze_0": {"hier_name": "microblaze_0",
+"type": "microblaze",
+"version": "11.0",
+"ip_type": "PROCESSOR",
+},
+"microblaze_0_axi_periph": {"hier_name": "microblaze_0_axi_periph",
+"type": "axi_interconnect",
+"version": "2.1",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_dlmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_dlmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_dlmb_v10": {"hier_name": "microblaze_0_local_memory_dlmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_ilmb_bram_if_cntlr": {"hier_name": "microblaze_0_local_memory_ilmb_bram_if_cntlr",
+"type": "lmb_bram_if_cntlr",
+"version": "4.0",
+"ip_type": "MEMORY_CNTLR",
+},
+"microblaze_0_local_memory_ilmb_v10": {"hier_name": "microblaze_0_local_memory_ilmb_v10",
+"type": "lmb_v10",
+"version": "3.0",
+"ip_type": "BUS",
+},
+"microblaze_0_local_memory_lmb_bram": {"hier_name": "microblaze_0_local_memory_lmb_bram",
+"type": "blk_mem_gen",
+"version": "8.4",
+"ip_type": "MEMORY",
+},
+"rst_Clk_100M": {"hier_name": "rst_Clk_100M",
+"type": "proc_sys_reset",
+"version": "5.0",
+"ip_type": "PERIPHERAL",
+},
+}]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:11.115
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:11.119
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:11.119
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:11.123
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-13 10:50:11.123
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:11.127
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:11.127
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-3: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:24.647
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:24.647
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:24.647
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:24.651
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-13 10:50:24.651
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:24.651
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:50:24.655
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-2: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:51:54.238
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:51:54.242
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:51:54.242
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:51:54.246
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-13 10:51:54.246
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:51:54.246
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:51:54.246
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-1: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:53:49.995
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:53:49.995
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:53:49.999
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:53:49.999
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/hw/bbu_top.xsa E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, {"procname": "microblaze_0",
+"osname": "standalone",
+"osver": "7.3",
+}]. Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2024-06-13 10:53:49.999
+!MESSAGE Generating MD5 hash for file: E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\microblaze_system\export\microblaze_system\sw\microblaze_system\standalone_domain\system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:53:49.999
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Thread: Worker-6: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2024-06-13 10:53:50.003
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-6: Build Project
+
+!ENTRY ilg.gnuarmeclipse.packs.data 4 1 2024-06-13 10:57:28.141
+!MESSAGE File .repos.xml does not exist, using defaults.

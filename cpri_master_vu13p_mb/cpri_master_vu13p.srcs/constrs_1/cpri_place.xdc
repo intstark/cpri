@@ -129,8 +129,8 @@ set_property PACKAGE_PIN J41 [get_ports {QSFP3_TXN[3]}]
 #set_property PACKAGE_PIN W36 [get_ports gty_refclk2p]
 #set_property LOC GTYE4_COMMON_X0Y10 [get_cells -hierarchical -filter {NAME =~ *u_cpri_ch_3_0/IBUFDS_GTE4_inst}]
 
-set_property PACKAGE_PIN N36 [get_ports gty_refclk2p]
-set_property PACKAGE_PIN U36 [get_ports gty_refclk3p]
+set_property PACKAGE_PIN U36 [get_ports gty_refclk2p]
+set_property PACKAGE_PIN N36 [get_ports gty_refclk3p]
 
 #set_property PACKAGE_PIN R37 [get_ports gty_refclk3n]
 #set_property PACKAGE_PIN R36 [get_ports gty_refclk3p]

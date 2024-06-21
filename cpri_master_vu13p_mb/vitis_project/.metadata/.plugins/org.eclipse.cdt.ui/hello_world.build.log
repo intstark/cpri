@@ -1,28 +1,6 @@
-18:08:39 **** Build of configuration Debug for project hello_world ****
+10:53:50 **** Incremental Build of configuration Debug for project hello_world ****
 make all 
-'Building file: ../src/helloworld.c'
-'Invoking: MicroBlaze gcc compiler'
-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -IE:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
-../src/helloworld.c: In function 'main':
-../src/helloworld.c:247:5: warning: implicit declaration of function 'sleep' [-Wimplicit-function-declaration]
-  247 |     sleep(2);
-      |     ^~~~~
-../src/helloworld.c:276:15: warning: unused variable 'master_delay' [-Wunused-variable]
-  276 |         float master_delay = cpri_master_delay_calc(data);
-      |               ^~~~~~~~~~~~
-'Finished building: ../src/helloworld.c'
-' '
-'Building target: hello_world.elf'
-'Invoking: MicroBlaze gcc linker'
-mb-gcc -Wl,-T -Wl,../src/lscript.ld -LE:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/sw/microblaze_system/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "hello_world.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
-'Finished building target: hello_world.elf'
-' '
-'Invoking: MicroBlaze Print Size'
-mb-size hello_world.elf  |tee "hello_world.elf.size"
-   text	   data	    bss	    dec	    hex	filename
-  14536	    268	   2100	  16904	   4208	hello_world.elf
-'Finished building: hello_world.elf.size'
-' '
+make: Nothing to be done for 'all'.
 
-18:08:39 Build Finished (took 497ms)
+10:53:50 Build Finished (took 127ms)
 

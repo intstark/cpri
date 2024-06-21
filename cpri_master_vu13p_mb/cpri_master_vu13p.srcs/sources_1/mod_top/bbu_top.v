@@ -249,7 +249,7 @@ clk_245p76_gen u_clk_245p76_gen
     // Clock out ports
     .clk_out1(ref_clk_245p76),     // output clk_out1
     // Status and control signals
-    .reset(rst_245p76), // input reset
+    .reset(1'b0), // input reset
     .locked(locked_245p76),       // output locked
    // Clock in ports
     .clk_in1(ref_clk_368p64)      // input clk_in1

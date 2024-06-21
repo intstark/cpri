@@ -1,50 +1,67 @@
 {
    "ActiveEmotionalView":"Default View",
-   "Default View_ScaleFactor":"0.806172",
-   "Default View_TopLeft":"-127,-171",
+   "Default View_ScaleFactor":"0.28285",
+   "Default View_TopLeft":"898,-1241",
    "ExpandedHierarchyInLayout":"",
    "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
 #  -string -flagsOSRD
-preplace port M00_AXI -pg 1 -lvl 6 -x 1840 -y 270 -defaultsOSRD
-preplace port M01_AXI -pg 1 -lvl 6 -x 1840 -y 290 -defaultsOSRD
-preplace port M02_AXI -pg 1 -lvl 6 -x 1840 -y 310 -defaultsOSRD
-preplace port M03_AXI -pg 1 -lvl 6 -x 1840 -y 330 -defaultsOSRD
-preplace port M04_AXI -pg 1 -lvl 6 -x 1840 -y 350 -defaultsOSRD
-preplace port M05_AXI -pg 1 -lvl 6 -x 1840 -y 370 -defaultsOSRD
-preplace port M06_AXI -pg 1 -lvl 6 -x 1840 -y 390 -defaultsOSRD
-preplace port M07_AXI -pg 1 -lvl 6 -x 1840 -y 410 -defaultsOSRD
+preplace port M00_AXI -pg 1 -lvl 8 -x 3320 -y 270 -defaultsOSRD
+preplace port M01_AXI -pg 1 -lvl 8 -x 3320 -y 290 -defaultsOSRD
+preplace port M02_AXI -pg 1 -lvl 8 -x 3320 -y 310 -defaultsOSRD
+preplace port M03_AXI -pg 1 -lvl 8 -x 3320 -y 330 -defaultsOSRD
+preplace port M04_AXI -pg 1 -lvl 8 -x 3320 -y 350 -defaultsOSRD
+preplace port M05_AXI -pg 1 -lvl 8 -x 3320 -y 370 -defaultsOSRD
+preplace port M06_AXI -pg 1 -lvl 8 -x 3320 -y 390 -defaultsOSRD
+preplace port M07_AXI -pg 1 -lvl 8 -x 3320 -y 410 -defaultsOSRD
+preplace port BRAM_PORTA -pg 1 -lvl 0 -x -10 -y -120 -defaultsOSRD
 preplace port Clk -pg 1 -lvl 0 -x -10 -y 540 -defaultsOSRD
 preplace port reset_rtl_0 -pg 1 -lvl 0 -x -10 -y 620 -defaultsOSRD
-preplace inst microblaze_0 -pg 1 -lvl 3 -x 940 -y 480 -defaultsOSRD
-preplace inst microblaze_0_local_memory -pg 1 -lvl 4 -x 1370 -y 490 -defaultsOSRD
-preplace inst microblaze_0_axi_periph -pg 1 -lvl 4 -x 1370 -y 140 -defaultsOSRD
-preplace inst mdm_1 -pg 1 -lvl 2 -x 530 -y 490 -defaultsOSRD
-preplace inst rst_Clk_100M -pg 1 -lvl 1 -x 190 -y 640 -defaultsOSRD
-preplace inst axi_crossbar_0 -pg 1 -lvl 5 -x 1680 -y 340 -defaultsOSRD
-preplace inst jtag_axi_0 -pg 1 -lvl 4 -x 1370 -y 330 -defaultsOSRD
-preplace netloc microblaze_0_Clk 1 0 5 10 540 360 400 700 380 1210 570 1530
-preplace netloc rst_Clk_100M_mb_reset 1 1 2 370J 410 690
-preplace netloc rst_Clk_100M_bus_struct_reset 1 1 3 NJ 620 NJ 620 1220
-preplace netloc rst_Clk_100M_peripheral_aresetn 1 1 4 380 570 NJ 570 1190 580 1540J
-preplace netloc mdm_1_debug_sys_rst 1 0 3 20 380 NJ 380 680
+preplace portBus gpio_io_i_0 -pg 1 -lvl 0 -x -10 -y -100 -defaultsOSRD
+preplace inst microblaze_0 -pg 1 -lvl 3 -x 1580 -y 480 -defaultsOSRD
+preplace inst microblaze_0_local_memory -pg 1 -lvl 4 -x 2000 -y 530 -defaultsOSRD
+preplace inst microblaze_0_axi_periph -pg 1 -lvl 4 -x 2000 -y 130 -defaultsOSRD
+preplace inst mdm_1 -pg 1 -lvl 2 -x 1160 -y 490 -defaultsOSRD
+preplace inst rst_Clk_100M -pg 1 -lvl 1 -x 810 -y 640 -defaultsOSRD
+preplace inst axi_crossbar_0 -pg 1 -lvl 5 -x 2350 -y 340 -defaultsOSRD
+preplace inst jtag_axi_0 -pg 1 -lvl 4 -x 2000 -y 390 -defaultsOSRD
+preplace inst axi_bram_ctrl_0 -pg 1 -lvl 5 -x 2350 -y 80 -defaultsOSRD
+preplace inst blk_mem_gen_0 -pg 1 -lvl 6 -x 2870 -y -50 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 6 -x 2870 -y 150 -defaultsOSRD
+preplace inst axi_intc_0 -pg 1 -lvl 5 -x 2350 -y 540 -defaultsOSRD
+preplace inst ila_0 -pg 1 -lvl 7 -x 3200 -y 150 -defaultsOSRD
+preplace netloc microblaze_0_Clk 1 0 7 10 490 1000 400 1330 390 1850 -70 2170 180 2510 250 3020
+preplace netloc rst_Clk_100M_mb_reset 1 1 2 990J 410 1320
+preplace netloc rst_Clk_100M_bus_struct_reset 1 1 3 NJ 620 NJ 620 1830
+preplace netloc rst_Clk_100M_peripheral_aresetn 1 1 5 980 380 NJ 380 1820 -80 2180J 170 N
+preplace netloc mdm_1_debug_sys_rst 1 0 3 20 390 NJ 390 1310
 preplace netloc reset_rtl_0_1 1 0 1 NJ 620
-preplace netloc microblaze_0_axi_dp 1 3 1 1180 60n
-preplace netloc jtag_axi_0_M_AXI 1 4 1 N 330
-preplace netloc axi_crossbar_0_M00_AXI 1 5 1 NJ 270
-preplace netloc microblaze_0_dlmb_1 1 3 1 N 460
-preplace netloc microblaze_0_ilmb_1 1 3 1 N 480
-preplace netloc axi_crossbar_0_M03_AXI 1 5 1 NJ 330
-preplace netloc axi_crossbar_0_M04_AXI 1 5 1 NJ 350
+preplace netloc axi_gpio_0_ip2intc_irpt 1 4 3 2210 210 2500J 260 3010
+preplace netloc gpio_io_i_0_1 1 0 7 NJ -100 NJ -100 NJ -100 NJ -100 NJ -100 2510J -120 3010
+preplace netloc axi_gpio_0_gpio_io_o 1 6 1 N 150
+preplace netloc axi_gpio_0_gpio_io_t 1 6 1 N 170
+preplace netloc axi_crossbar_0_M01_AXI 1 5 3 NJ 290 N 290 N
+preplace netloc microblaze_0_ilmb_1 1 3 1 1820 480n
+preplace netloc axi_crossbar_0_M03_AXI 1 5 3 NJ 330 N 330 N
+preplace netloc microblaze_0_axi_periph_M01_AXI 1 4 1 2200 110n
+preplace netloc axi_crossbar_0_M07_AXI 1 5 3 NJ 410 N 410 N
+preplace netloc axi_crossbar_0_M05_AXI 1 5 3 NJ 370 N 370 N
+preplace netloc microblaze_0_axi_periph_M03_AXI 1 4 2 2190 160 2500J
+preplace netloc axi_bram_ctrl_0_BRAM_PORTA 1 5 1 2510 -40n
+preplace netloc microblaze_0_axi_dp 1 3 1 1830 -10n
+preplace netloc axi_crossbar_0_M00_AXI 1 5 3 NJ 270 N 270 N
+preplace netloc jtag_axi_0_M_AXI 1 4 1 2200 330n
+preplace netloc axi_crossbar_0_M02_AXI 1 5 3 NJ 310 N 310 N
 preplace netloc microblaze_0_debug 1 2 1 N 470
-preplace netloc microblaze_0_mdm_axi 1 1 4 380 390 NJ 390 1200J 400 1520
-preplace netloc axi_crossbar_0_M06_AXI 1 5 1 NJ 390
-preplace netloc axi_crossbar_0_M02_AXI 1 5 1 NJ 310
-preplace netloc axi_crossbar_0_M01_AXI 1 5 1 NJ 290
-preplace netloc axi_crossbar_0_M05_AXI 1 5 1 NJ 370
-preplace netloc microblaze_0_axi_periph_M01_AXI 1 4 1 1540 150n
-preplace netloc axi_crossbar_0_M07_AXI 1 5 1 NJ 410
-levelinfo -pg 1 -10 190 530 940 1370 1680 1840
-pagesize -pg 1 -db -bbox -sgen -130 0 1950 750
+preplace netloc microblaze_0_mdm_axi 1 1 4 1010 -90 NJ -90 NJ -90 2150
+preplace netloc axi_crossbar_0_M06_AXI 1 5 3 NJ 390 N 390 N
+preplace netloc microblaze_0_dlmb_1 1 3 1 1840 460n
+preplace netloc axi_crossbar_0_M04_AXI 1 5 3 NJ 350 N 350 N
+preplace netloc microblaze_0_axi_periph_M02_AXI 1 4 1 2160 60n
+preplace netloc BRAM_PORTA_1 1 0 6 NJ -120 NJ -120 NJ -120 NJ -120 NJ -120 2500
+preplace netloc microblaze_0_axi_periph_M04_AXI 1 4 1 2150 170n
+preplace netloc axi_intc_0_interrupt 1 2 4 1340 -130 NJ -130 NJ -130 2490
+levelinfo -pg 1 -10 810 1160 1580 2000 2350 2870 3200 3320
+pagesize -pg 1 -db -bbox -sgen -170 -280 3430 1330
 "
 }
 {

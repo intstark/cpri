@@ -145,6 +145,16 @@ logic [7:0][31 : 0]   iq_rx_error_count  ;
 logic [7:0][11: 0]    iq_rx_nodebfn_rx_nr_store  ;
 logic [31:0]    source;
 
+wire           [  31: 0]        BRAM_PORTA_addr     ;
+wire                            BRAM_PORTA_en       ;
+wire                            BRAM_PORTA_rst      ;
+wire           [  31: 0]        BRAM_PORTA_din      ;
+wire           [   3: 0]        BRAM_PORTA_we       ;
+wire           [  31: 0]        GPIO_tri_io         ;
+
+
+
+
 
 assign FPGA_QSFP2_LPMODE  = 1'b0;
 assign FPGA_QSFP2_RESET_L = 1'b1;
@@ -505,10 +515,32 @@ mii_stim  u_eth_mii_test
 end
 endgenerate
 
+param_rec_mem   param_rec_mem(
+    .i_clk                              (fpga_clk_100mhz    ),
+    .i_stat_code                        (stat_code[3:0]     ),
+
+    .o_mem_addr                         (BRAM_PORTA_addr    ),
+    .o_mem_din                          (BRAM_PORTA_din     ),
+    .i_mem_dout                         (BRAM_PORTA_dout    ),
+    .o_mem_en                           (BRAM_PORTA_en      ),
+    .o_mem_rst                          (BRAM_PORTA_rst     ),
+    .o_mem_we                           (BRAM_PORTA_we      ),
+    .o_gpio                             (GPIO_tri_io        ) 
+);
+
+
 design_mb_wrapper u_design_mb_wrapper
    (
     .Clk                                (fpga_clk_100mhz    ),
     .reset_rtl_0                        (fpga_rst_100mhz    ),
+    .BRAM_PORTA_addr                    (BRAM_PORTA_addr    ),
+    .BRAM_PORTA_clk                     (fpga_clk_100mhz    ),
+    .BRAM_PORTA_din                     (BRAM_PORTA_din     ),
+    .BRAM_PORTA_dout                    (BRAM_PORTA_dout    ),
+    .BRAM_PORTA_en                      (BRAM_PORTA_en      ),
+    .BRAM_PORTA_rst                     (BRAM_PORTA_rst     ),
+    .BRAM_PORTA_we                      (BRAM_PORTA_we      ),
+    .gpio_io_i_0                        (GPIO_tri_io        ),
     .M00_AXI_araddr                     (s_axi_araddr [0]   ),
     .M00_AXI_arprot                     (                   ),
     .M00_AXI_arready                    (s_axi_arready[0]   ),

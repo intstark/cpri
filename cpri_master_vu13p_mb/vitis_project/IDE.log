@@ -262,3 +262,93 @@ Troubleshooting hints:
 18:08:38 INFO  : Result from executing command 'getProjects': microblaze_system
 18:08:38 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
 18:08:38 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:01:22 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+09:01:24 INFO  : XSCT server has started successfully.
+09:01:24 INFO  : Successfully done setting XSCT server connection channel  
+09:01:24 INFO  : plnx-install-location is set to ''
+09:01:24 INFO  : Successfully done setting workspace for the tool. 
+09:01:27 INFO  : Platform repository initialization has completed.
+09:01:28 INFO  : Registering command handlers for Vitis TCF services
+09:01:28 INFO  : Successfully done query RDI_DATADIR 
+09:02:22 INFO  : Hardware specification for platform project 'microblaze_system' is updated.
+09:02:55 INFO  : Result from executing command 'getProjects': microblaze_system
+09:02:55 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+09:03:13 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:03:14 INFO  : Updating application flags with new BSP settings...
+09:03:14 INFO  : Successfully updated application flags for project hello_world.
+09:03:16 INFO  : The hardware specfication used by project 'hello_world' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+09:03:16 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.bit' stored in project is removed.
+09:03:16 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.mmi' stored in project is removed.
+09:03:17 INFO  : The updated bitstream files are copied from platform to folder 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream' in project 'hello_world'.
+09:03:22 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:03:38 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:04:31 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:45:55 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:46:16 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:48:56 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:49:05 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:49:16 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+09:52:48 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:42:54 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+10:42:56 INFO  : XSCT server has started successfully.
+10:42:56 INFO  : plnx-install-location is set to ''
+10:42:56 INFO  : Successfully done setting XSCT server connection channel  
+10:42:56 INFO  : Successfully done setting workspace for the tool. 
+10:42:59 INFO  : Platform repository initialization has completed.
+10:42:59 INFO  : Successfully done query RDI_DATADIR 
+10:42:59 INFO  : Registering command handlers for Vitis TCF services
+10:48:21 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:25:05 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+16:25:08 INFO  : XSCT server has started successfully.
+16:25:08 INFO  : Successfully done setting XSCT server connection channel  
+16:25:08 INFO  : plnx-install-location is set to ''
+16:25:08 INFO  : Successfully done setting workspace for the tool. 
+16:25:11 INFO  : Platform repository initialization has completed.
+16:25:11 INFO  : Successfully done query RDI_DATADIR 
+16:25:12 INFO  : Registering command handlers for Vitis TCF services
+16:26:05 INFO  : Hardware specification for platform project 'microblaze_system' is updated.
+16:27:37 INFO  : Result from executing command 'getProjects': microblaze_system
+16:27:37 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+16:28:00 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:28:02 INFO  : Updating application flags with new BSP settings...
+16:28:02 INFO  : Successfully updated application flags for project hello_world.
+16:28:03 INFO  : The hardware specfication used by project 'hello_world' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+16:28:03 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.bit' stored in project is removed.
+16:28:03 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.mmi' stored in project is removed.
+16:28:04 INFO  : The updated bitstream files are copied from platform to folder 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream' in project 'hello_world'.
+16:28:12 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+16:50:54 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:14:57 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:15:47 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+17:16:07 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+18:06:23 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+18:06:25 INFO  : XSCT server has started successfully.
+18:06:25 INFO  : Successfully done setting XSCT server connection channel  
+18:06:25 INFO  : plnx-install-location is set to ''
+18:06:25 INFO  : Successfully done setting workspace for the tool. 
+18:06:28 INFO  : Platform repository initialization has completed.
+18:06:28 INFO  : Successfully done query RDI_DATADIR 
+18:06:28 INFO  : Registering command handlers for Vitis TCF services
+18:07:23 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+18:07:52 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+18:08:29 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:47:43 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\temp_xsdb_launch_script.tcl
+10:47:45 INFO  : XSCT server has started successfully.
+10:47:45 INFO  : plnx-install-location is set to ''
+10:47:45 INFO  : Successfully done setting XSCT server connection channel  
+10:47:45 INFO  : Successfully done setting workspace for the tool. 
+10:47:48 INFO  : Platform repository initialization has completed.
+10:47:48 INFO  : Successfully done query RDI_DATADIR 
+10:47:48 INFO  : Registering command handlers for Vitis TCF services
+10:48:16 INFO  : Hardware specification for platform project 'microblaze_system' is updated.
+10:49:34 INFO  : Result from executing command 'getProjects': microblaze_system
+10:49:34 INFO  : Result from executing command 'getPlatforms': microblaze_system|E:/ZJYJY/Product/VU13P/prj/STD_CPRI_LEE/cpri_master_vu13p_mb/vitis_project/microblaze_system/export/microblaze_system/microblaze_system.xpfm
+10:50:01 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:50:04 INFO  : The hardware specfication used by project 'hello_world' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+10:50:04 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.bit' stored in project is removed.
+10:50:04 INFO  : The file 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream\bbu_top.mmi' stored in project is removed.
+10:50:05 INFO  : The updated bitstream files are copied from platform to folder 'E:\ZJYJY\Product\VU13P\prj\STD_CPRI_LEE\cpri_master_vu13p_mb\vitis_project\hello_world\_ide\bitstream' in project 'hello_world'.
+10:50:11 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:50:24 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:51:54 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...
+10:53:49 INFO  : Checking for BSP changes to sync application flags for project 'hello_world'...

@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="ReadDelayReg"/>
+		<item key="selection" value="EXCEPTION"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="EXCEPTION"/>
+			<item value="XIL_EXCEPTION_ID_IRQ_INT"/>
+			<item value="XIL_EXCEPTION_ID_INT "/>
+			<item value="XIL"/>
+			<item value="EXCEPTION_ID"/>
+			<item value="vec"/>
+			<item value="XPAR_AXI_INTC"/>
+			<item value="INTC_0_DEVICE_ID"/>
+			<item value="XPAR_AXI_GPIO_INTR_ID"/>
+			<item value="GPIO"/>
+			<item value="0x30000000"/>
 			<item value="ReadDelayReg"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1111"/>
-		<item key="DIALOG_Y_ORIGIN" value="482"/>
+		<item key="DIALOG_X_ORIGIN" value="17"/>
+		<item key="DIALOG_Y_ORIGIN" value="662"/>
 		<item key="DIALOG_WIDTH" value="356"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
-		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|5|0|Microsoft YaHei UI"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
 	</section>
 </section>
